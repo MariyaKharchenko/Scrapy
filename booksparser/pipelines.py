@@ -8,6 +8,8 @@
 from itemadapter import ItemAdapter
 from pymongo import MongoClient
 import re
+import json
+
 
 
 class BooksparserPipeline:
@@ -16,10 +18,16 @@ class BooksparserPipeline:
         self.mongo_base = client.books
 
     def process_item(self, item, spider):
+
         #item['_id'] = re.findall(r'\b\d+\b', item.get('_id'))[0]
-        item['price'] = ''.join(re.findall(r'\b\d+\b', item.get('price')))
+        item['price'] = str(''.join(re.findall(r'\b\d+\b', item.get('price'))))
+        item['name'] = str(item.get('name'))
+        item['url'] = str(item.get('url'))
+
 
         collection = self.mongo_base[spider.name]
         collection.insert_one(item)
-
         return item
+
+
+

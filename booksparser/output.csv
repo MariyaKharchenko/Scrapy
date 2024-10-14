@@ -1,0 +1,986 @@
+_id,name,price,url
+670d3b5bd57fd6339b6e7403,Бент Якобсен: Продавец троллей,1872,https://www.labirint.ru/books/766218/
+670d3b5cd57fd6339b6e7404,Джордж Оруэлл: Полное собрание романов в одном томе,1448,https://www.labirint.ru/books/877347/
+670d3b5dd57fd6339b6e7405,Асия Арсланова: Аул,926,https://www.labirint.ru/books/982323/
+670d3b5ed57fd6339b6e7406,Владимир Обручев: Земля Санникова. В 2-х томах,7728,https://www.labirint.ru/books/795058/
+670d3b5ed57fd6339b6e7407,Артур Дойл: Затерянный мир,4440,https://www.labirint.ru/books/872576/
+670d3b5fd57fd6339b6e7408,Кир Булычев: Алиса Селезнева. Начало. Комплект из 3-х книг,2717,https://www.labirint.ru/books/1005576/
+670d3b5fd57fd6339b6e7409,Кристина Стрельникова: Тропы Аиды,1092,https://www.labirint.ru/books/996357/
+670d3b60d57fd6339b6e740a,Фрэнк Герберт: Дюна. Мессия Дюны. Дети Дюны. Бог-Император Дюны. Еретики Дюны. Капитул Дюны.,2783,https://www.labirint.ru/books/938671/
+670d3b60d57fd6339b6e740b,Джоан Эйкен: Волчьи хроники. Комплект из 3 книг,2726,https://www.labirint.ru/books/868183/
+670d3b61d57fd6339b6e740c,Павел Губарев: Имя Кати,1080,https://www.labirint.ru/books/996858/
+670d3b62d57fd6339b6e740d,Алексей Толстой: Гиперболоид инженера Гарина,12792,https://www.labirint.ru/books/654918/
+670d3b62d57fd6339b6e740e,Федор Кабарин: Сияние базальтовых гор,512,https://www.labirint.ru/books/1017623/
+670d3b63d57fd6339b6e740f,Наталья Кудрякова: Ребус профессора Персиянова,998,https://www.labirint.ru/books/990517/
+670d3b64d57fd6339b6e7410,Кристель Дабо: Сквозь зеркала. Книга 1. Обрученные холодом,1216,https://www.labirint.ru/books/626205/
+670d3b64d57fd6339b6e7411,Рид Майн: Всадник без головы,2012,https://www.labirint.ru/books/699570/
+670d3b65d57fd6339b6e7412,Nalini Singh: Storm Echo,4726,https://www.labirint.ru/books/909416/
+670d3b66d57fd6339b6e7413,Jan Carson: The Raptures,3911,https://www.labirint.ru/books/890430/
+670d3b66d57fd6339b6e7414,Sean Lusk: The Second Sight of Zachary Cloudesley,3912,https://www.labirint.ru/books/890455/
+670d3b67d57fd6339b6e7415,Ayanna Banwo: When We Were Birds,3913,https://www.labirint.ru/books/888713/
+670d3b68d57fd6339b6e7416,Джоан Роулинг: Гарри Поттер и Орден Феникса,1209,https://www.labirint.ru/books/467401/
+670d3b68d57fd6339b6e7417,Джин Дюпро: Город Эмбер,1064,https://www.labirint.ru/books/878608/
+670d3b69d57fd6339b6e7418,Owen King: The Curator,3954,https://www.labirint.ru/books/956221/
+670d3b69d57fd6339b6e7419,Peng Shepherd: The Cartographers,4007,https://www.labirint.ru/books/905213/
+670d3b69d57fd6339b6e741a,Dana Schwartz: Anatomy. A Love Story,4007,https://www.labirint.ru/books/904868/
+670d3b6bd57fd6339b6e741b,Silvia Moreno-Garcia: Mexican Gothic,4012,https://www.labirint.ru/books/910287/
+670d3b6bd57fd6339b6e741c,Morowa Yejide: Creatures of Passage,4017,https://www.labirint.ru/books/910558/
+670d3b6bd57fd6339b6e741d,Kate Folk: Out There. Stories,4017,https://www.labirint.ru/books/910255/
+670d3b6cd57fd6339b6e741e,Richard Chizmar: Chasing the Boogeyman,4017,https://www.labirint.ru/books/910254/
+670d3b6dd57fd6339b6e741f,Chloe Timms: The Seawomen,4017,https://www.labirint.ru/books/910250/
+670d3b6ed57fd6339b6e7420,"Карел Чапек: Человек, который умел летать",1236,https://www.labirint.ru/books/878603/
+670d3b6ed57fd6339b6e7421,"Кир Булычев: Девочка, с которой ничего не случится",829,https://www.labirint.ru/books/768336/
+670d3b6fd57fd6339b6e7422,Scott Westerfeld: Mirror's Edge,4043,https://www.labirint.ru/books/919741/
+670d3b6fd57fd6339b6e7423,Eireann Corrigan: Remedy,4043,https://www.labirint.ru/books/919138/
+670d3b70d57fd6339b6e7424,Rosiee Thor: Fire Becomes Her,4043,https://www.labirint.ru/books/919026/
+670d3b70d57fd6339b6e7425,"Shawn Sarles: Mary, Will I Die?",4043,https://www.labirint.ru/books/919025/
+670d3b71d57fd6339b6e7426,Кристель Дабо: Сквозь зеркала. Книга 3. Память Вавилона,1256,https://www.labirint.ru/books/656274/
+670d3b72d57fd6339b6e7427,Neal Stephenson: Reamde,4079,https://www.labirint.ru/books/929351/
+670d3b72d57fd6339b6e7428,Юлия Мазурова: Зеркало алхимика,907,https://www.labirint.ru/books/901257/
+670d3b73d57fd6339b6e7429,Melanie Scott: Marvel Black Widow,4114,https://www.labirint.ru/books/826945/
+670d3b74d57fd6339b6e742a,T. Huchu: Our Lady of Mysterious Ailments,4137,https://www.labirint.ru/books/902577/
+670d3b74d57fd6339b6e742b,"Herbert, Андерсон: Sands of Dune",4119,https://www.labirint.ru/books/905600/
+670d3b75d57fd6339b6e742c,Genevieve Cogman: Scarlet,4153,https://www.labirint.ru/books/955602/
+670d3b75d57fd6339b6e742d,Sarah Jackson: Not Alone,4153,https://www.labirint.ru/books/955582/
+670d3b76d57fd6339b6e742e,Camilla Bruce: The Witch in the Well,4211,https://www.labirint.ru/books/892330/
+670d3b76d57fd6339b6e742f,Brian Catling: Hollow,4255,https://www.labirint.ru/books/910243/
+670d3b77d57fd6339b6e7430,Александр Казанцев: Льды возвращаются. Пунктир воспоминаний,1621,https://www.labirint.ru/books/948593/
+670d3b78d57fd6339b6e7431,Рэй Брэдбери: 451' по Фаренгейту. Повести. Рассказы,1950,https://www.labirint.ru/books/945873/
+670d3b79d57fd6339b6e7432,Виктория Ледерман: Календарь ма(й)я,1356,https://www.labirint.ru/books/535141/
+670d3b79d57fd6339b6e7433,Natasha Calder: Whether Violent or Natural,4285,https://www.labirint.ru/books/963555/
+670d3b7ad57fd6339b6e7434,George Lucas: Star Wars. Episode IV. A New Hope,4313,https://www.labirint.ru/books/891198/
+670d3b7bd57fd6339b6e7435,Jo Harkin: Tell Me an Ending,4313,https://www.labirint.ru/books/891116/
+670d3b7bd57fd6339b6e7436,Sylvain Neuvel: Until the Last of Me,4313,https://www.labirint.ru/books/888503/
+670d3b7cd57fd6339b6e7437,Christel Dee: Doctor Who. The Women Who Lived. Amazing Tales for Future Time Lords,4367,https://www.labirint.ru/books/973279/
+670d3b7dd57fd6339b6e7438,"Adams, Робертс: Doctor Who. Shada",4367,https://www.labirint.ru/books/973253/
+670d3b7dd57fd6339b6e7439,Владимир Обручев: Земля Санникова,1725,https://www.labirint.ru/books/717881/
+670d3b7ed57fd6339b6e743a,Екатерина Мурашова: Гвардия тревоги,811,https://www.labirint.ru/books/747725/
+670d3b7ed57fd6339b6e743b,Brandon Sanderson: Cytonic,4423,https://www.labirint.ru/books/905971/
+670d3b7fd57fd6339b6e743c,Beth Lewis: Children of the Sun,4423,https://www.labirint.ru/books/976283/
+670d3b7fd57fd6339b6e743d,J. Morgan: Appliance,4451,https://www.labirint.ru/books/892238/
+670d3b80d57fd6339b6e743e,Александр Беляев: Человек-амфибия. Подводные земледельцы,1280,https://www.labirint.ru/books/672164/
+670d3b82d57fd6339b6e743f,Алека Вольских: Мила Рудик. Начало. Комплект из 3-х книг,2573,https://www.labirint.ru/books/1005781/
+670d3b82d57fd6339b6e7440,J. Miro: Ordinary Monsters,4523,https://www.labirint.ru/books/922270/
+670d3b82d57fd6339b6e7441,"Sanderson, Patterson: Skyward Flight",4528,https://www.labirint.ru/books/909415/
+670d3b83d57fd6339b6e7442,Kate Dylan: Mindwalker,4539,https://www.labirint.ru/books/905803/
+670d3b84d57fd6339b6e7443,Renee Ahdieh: The Righteous,4539,https://www.labirint.ru/books/905583/
+670d3b84d57fd6339b6e7444,Rachelle Atalla: The Pharmacist,4539,https://www.labirint.ru/books/905516/
+670d3b85d57fd6339b6e7445,Vanessa Len: Only a Monster,4539,https://www.labirint.ru/books/905482/
+670d3b85d57fd6339b6e7446,S Morden: The Flight of the Aphrodite,4539,https://www.labirint.ru/books/904632/
+670d3b86d57fd6339b6e7447,Алексей Толстой: Гиперболоид инженера Гарина,13216,https://www.labirint.ru/books/654919/
+670d3b87d57fd6339b6e7448,Роман Злотников: Грон: Обреченный на бой; Смертельный удар; Последняя битва,1128,https://www.labirint.ru/books/75514/
+670d3b88d57fd6339b6e7449,Джеймс Блэйлок: Лэнгдон Сент-Ив. Приключения начинаются. Комплект из 3 книг,3994,https://www.labirint.ru/books/843552/
+670d3b88d57fd6339b6e744a,"Абнетт, Кайм, Хейли: Ересь Хоруса. Книга IX. Отметка Калта. Вулкан жив. Забытая империя",1800,https://www.labirint.ru/books/859610/
+670d3b88d57fd6339b6e744b,Джеймс Блэйлок: Лэнгдон Сент-Ив. Легенда стимпанка. Комплект из 3 книг,4013,https://www.labirint.ru/books/843553/
+670d3b89d57fd6339b6e744c,Jasper Fforde: The Constant Rabbit,4726,https://www.labirint.ru/books/909675/
+670d3b89d57fd6339b6e744d,G Todd: Ghosts,4726,https://www.labirint.ru/books/909816/
+670d3b8bd57fd6339b6e744e,Nora Roberts: The Choice,4726,https://www.labirint.ru/books/908913/
+670d3b8bd57fd6339b6e744f,Kurt Vonnegut: Cat's Cradle,2060,https://www.labirint.ru/books/908951/
+670d3b8dd57fd6339b6e7450,Сэнди Митчелл: Темная ересь. Искорени еретика. Невиновность - не доказательство,1425,https://www.labirint.ru/books/823639/
+670d3b8dd57fd6339b6e7451,Стивен Кинг: Противостояние,1555,https://www.labirint.ru/books/787967/
+670d3b8ed57fd6339b6e7452,Guy Kay: All the Seas of the World,4866,https://www.labirint.ru/books/910268/
+670d3b8fd57fd6339b6e7453,Camilla Bruce: All The Blood We Share,4881,https://www.labirint.ru/books/972882/
+670d3b90d57fd6339b6e7454,Mike Chen: Star Wars. Brotherhood,4960,https://www.labirint.ru/books/891107/
+670d3b90d57fd6339b6e7455,"Sylvain Neuvel: For the First Time, Again",4883,https://www.labirint.ru/books/973366/
+670d3b91d57fd6339b6e7456,Adam Christopher: Star Wars. Shadow of the Sith,5076,https://www.labirint.ru/books/891103/
+670d3b91d57fd6339b6e7457,Анна Гурова: Даша в поисках солнца,1044,https://www.labirint.ru/books/616152/
+670d3b92d57fd6339b6e7458,Douglas Adams: The Dirk Gently Omnibus. Dirk Gently's Holistic Detective Agency. The Long Dark Tea-Time of the Soul,5141,https://www.labirint.ru/books/889459/
+670d3b93d57fd6339b6e7459,Justin Richards: Doctor Who. The Time Lord Letters,5141,https://www.labirint.ru/books/973275/
+670d3b93d57fd6339b6e745a,Claudia Gray: Star Wars. The High Republic. The Fallen Star,5229,https://www.labirint.ru/books/891104/
+670d3b94d57fd6339b6e745b,Laurell Hamilton: A Terrible Fall of Angels,5348,https://www.labirint.ru/books/904721/
+670d3b94d57fd6339b6e745c,"Донценко, Стрельникова: Любителям пощекотать нервы. Комплект из 3-х книг",3206,https://www.labirint.ru/books/938105/
+670d3b95d57fd6339b6e745d,Leanne Shapton: Guestbook. Ghost Stories,5655,https://www.labirint.ru/books/973399/
+670d3b96d57fd6339b6e745e,Mike Tucker: Doctor Who. Diamond Dogs,3339,https://www.labirint.ru/books/973223/
+670d3b96d57fd6339b6e745f,"Adams, Госс: Doctor Who. City of Death",3339,https://www.labirint.ru/books/973217/
+670d3b97d57fd6339b6e7460,Naomi Alderman: Doctor Who. Borrowed Time,3339,https://www.labirint.ru/books/973216/
+670d3b97d57fd6339b6e7461,Gary Russell: Doctor Who. Beautiful Chaos,3339,https://www.labirint.ru/books/973214/
+670d3b98d57fd6339b6e7462,Daniel Blythe: Doctor Who. Autonomy,3339,https://www.labirint.ru/books/973213/
+670d3b99d57fd6339b6e7463,Anne Rice: The Witching Hour,3342,https://www.labirint.ru/books/885004/
+670d3b9ad57fd6339b6e7464,"Aldred, Такер, Коул: Doctor Who. At Childhood’s End",3339,https://www.labirint.ru/books/973212/
+670d3b9ad57fd6339b6e7465,Taran Hunt: The Immortality Thief,3352,https://www.labirint.ru/books/966670/
+670d3b9bd57fd6339b6e7466,Garth Marenghi: Garth Marenghi s TerrorTome,3359,https://www.labirint.ru/books/956113/
+670d3b9cd57fd6339b6e7467,Anne Rice: Lasher,3387,https://www.labirint.ru/books/885005/
+670d3b9cd57fd6339b6e7468,Rebecca Schaeffer: City of Nightmares,3359,https://www.labirint.ru/books/956079/
+670d3b9cd57fd6339b6e7469,Marie Lu: Rebel,3389,https://www.labirint.ru/books/888467/
+670d3b9dd57fd6339b6e746a,Jessamine Chan: The School for Good Mothers,3394,https://www.labirint.ru/books/891115/
+670d3b9ed57fd6339b6e746b,Алексей Толстой: Гиперболоид инженера Гарина. Черное золото,1756,https://www.labirint.ru/books/1005738/
+670d3b9ed57fd6339b6e746c,C. McGill: Our Hideous Progeny,3407,https://www.labirint.ru/books/969638/
+670d3b9ed57fd6339b6e746d,Лев Овалов: Тайны черной магии,1756,https://www.labirint.ru/books/1017700/
+670d3b9fd57fd6339b6e746e,Владимир Михановский: Гостиница Сигма,1756,https://www.labirint.ru/books/1017694/
+670d3ba0d57fd6339b6e746f,Рене Баржавель: Дороги Катманду,1756,https://www.labirint.ru/books/1017692/
+670d3ba1d57fd6339b6e7470,Кирилл Еськов: Баллады о Боре-Робингуде,1756,https://www.labirint.ru/books/1017688/
+670d3ba2d57fd6339b6e7471,Андрей Лисьев: Сломанное небо Салактионы,1951,https://www.labirint.ru/books/941280/
+670d3ba2d57fd6339b6e7472,Simon Crook: Silverweed Road,3429,https://www.labirint.ru/books/898951/
+670d3ba3d57fd6339b6e7473,Bradley Somer: Extinction,3429,https://www.labirint.ru/books/898868/
+670d3ba5d57fd6339b6e7474,Stephen Baxter: Evolution,3470,https://www.labirint.ru/books/905917/
+670d3ba5d57fd6339b6e7475,"Иэн Нейтан: Стивен Кинг. Король ужасов. Все экранизации книг мастера: от ""Кэрри"" до ""Доктор Сон""",3665,https://www.labirint.ru/books/727165/
+670d3ba6d57fd6339b6e7476,"Алина Адылова: Глаз дракона, или Удивительная история необычной голубятни",2013,https://www.labirint.ru/books/848707/
+670d3ba6d57fd6339b6e7477,Александр Галиев: Желтый Эскадроль,2017,https://www.labirint.ru/books/716931/
+670d3ba7d57fd6339b6e7478,Sally Hinchcliffe: Hare House,3540,https://www.labirint.ru/books/902467/
+670d3ba8d57fd6339b6e7479,Joanne Harris: Orfeia,3545,https://www.labirint.ru/books/909993/
+670d3ba8d57fd6339b6e747a,C. Carey: Widowland,3545,https://www.labirint.ru/books/910309/
+670d3ba9d57fd6339b6e747b,Peng Shepherd: The Cartographers,3545,https://www.labirint.ru/books/909407/
+670d3ba9d57fd6339b6e747c,Ray Nayler: The Mountain in the Sea,3564,https://www.labirint.ru/books/956250/
+670d3ba9d57fd6339b6e747d,Роберт Шекли: Лабиринт Минотавра,816,https://www.labirint.ru/books/786765/
+670d3babd57fd6339b6e747e,Клайв Баркер: Похититель вечности,1164,https://www.labirint.ru/books/823009/
+670d3babd57fd6339b6e747f,T.C. Boyle: Blue Skies,3587,https://www.labirint.ru/books/983863/
+670d3bacd57fd6339b6e7480,Владимир Васильев: Именем Тьмы. Чужое знание,823,https://www.labirint.ru/books/1017456/
+670d3bacd57fd6339b6e7481,"Jemisin, Roanhorse, Turnbull: Out There Screaming. An Anthology of New Black Horror",3351,https://www.labirint.ru/books/994807/
+670d3badd57fd6339b6e7482,Jim Crace: Eden,3664,https://www.labirint.ru/books/955614/
+670d3badd57fd6339b6e7483,Charles Stross: Invisible Sun,3649,https://www.labirint.ru/books/903284/
+670d3baed57fd6339b6e7484,Кристина Стрельникова: Имена на осколках,1331,https://www.labirint.ru/books/792395/
+670d3baed57fd6339b6e7485,С. Кувшинов: Невероятные приключения Салаи в Москве,2138,https://www.labirint.ru/books/930240/
+670d3bb0d57fd6339b6e7486,Джереми Бейтс: Зловещие зоны земли. Комплект из 3-х книг,3206,https://www.labirint.ru/books/931179/
+670d3bb0d57fd6339b6e7487,Ben Aaronovitch: Amongst Our Weapons,3754,https://www.labirint.ru/books/905023/
+670d3bb1d57fd6339b6e7488,J. Miro: Ordinary Monsters,3770,https://www.labirint.ru/books/881277/
+670d3bb1d57fd6339b6e7489,Chikodili Emelumadu: Dazzling,3754,https://www.labirint.ru/books/956086/
+670d3bb2d57fd6339b6e748a,Laura Purcell: The Whispering Muse,3780,https://www.labirint.ru/books/963527/
+670d3bb2d57fd6339b6e748b,Иван Ефремов: Туманность Андромеды,597,https://www.labirint.ru/books/993579/
+670d3bb3d57fd6339b6e748c,Джеймс Кэмерон: История научной фантастики Джеймса Кэмерона,3728,https://www.labirint.ru/books/682236/
+670d3bb4d57fd6339b6e748d,Артур Дойл: Затерянный мир,2188,https://www.labirint.ru/books/438397/
+670d3bb5d57fd6339b6e748e,Otterloo Van: Cattywampus,3830,https://www.labirint.ru/books/919308/
+670d3bb6d57fd6339b6e748f,Otterloo Van: A Touch of Ruckus,3830,https://www.labirint.ru/books/918976/
+670d3bb6d57fd6339b6e7490,Gareth Roberts: Doctor Who. Only Human,3853,https://www.labirint.ru/books/973242/
+670d3bb6d57fd6339b6e7491,Mariana Enriquez: Our Share of Night,3849,https://www.labirint.ru/books/954203/
+670d3bb6d57fd6339b6e7492,Mark Gatiss: Doctor Who. Last of the Gaderene,3853,https://www.labirint.ru/books/973239/
+670d3bb8d57fd6339b6e7493,Jenny Colgan: Doctor Who. In the Blood,3853,https://www.labirint.ru/books/973236/
+670d3bb8d57fd6339b6e7494,"Adams, Госс: Doctor Who and the Krikkitmen",3853,https://www.labirint.ru/books/973207/
+670d3bb9d57fd6339b6e7495,Yu An: Ghost Music,3856,https://www.labirint.ru/books/973379/
+670d3bb9d57fd6339b6e7496,"Игнатова, Каграманова, Донценко: О фантастических мирах. Комплект из 3-х книг",2227,https://www.labirint.ru/books/938112/
+670d3bbad57fd6339b6e7497,Kiersten White: Hide,3910,https://www.labirint.ru/books/891108/
+670d3bbad57fd6339b6e7498,Ava Reid: Juniper & Thorn,3912,https://www.labirint.ru/books/890806/
+670d3bbcd57fd6339b6e7499,Нэнси Фармер: Трилогия Нэнси Фармер. Комплект из 3 книг,4963,https://www.labirint.ru/books/850426/
+670d3bbcd57fd6339b6e749a,Джоан Роулинг: Гарри Поттер и Дары Смерти,1051,https://www.labirint.ru/books/481841/
+670d3bbdd57fd6339b6e749b,Blake Crouch: Abandon,3634,https://www.labirint.ru/books/981028/
+670d3bbdd57fd6339b6e749c,С. Барнс: Мертвая тишина,974,https://www.labirint.ru/books/922824/
+670d3bbed57fd6339b6e749d,Анна Гурова: Даша и приключения во времени. Комплект из 4 книг,3389,https://www.labirint.ru/books/850430/
+670d3bbfd57fd6339b6e749e,Эдвард Эштон: Микки-7,952,https://www.labirint.ru/books/848214/
+670d3bbfd57fd6339b6e749f,John Matthews: The Great Book of King Arthur and His Knights of the Round Table,6055,https://www.labirint.ru/books/898774/
+670d3bc0d57fd6339b6e74a0,"Макнилл, Торп: Ересь Хоруса. Книга VI. Эпоха тьмы. Отверженные мертвецы. Потерянное Освобождение",1800,https://www.labirint.ru/books/815020/
+670d3bc0d57fd6339b6e74a1,"Нина Павлова: Ведьма, кот и дело в шляпе",698,https://www.labirint.ru/books/984249/
+670d3bc1d57fd6339b6e74a2,Лев Шейнин: Записки следователя. Особое задание. Комплект в двух томах,3240,https://www.labirint.ru/books/974654/
+670d3bc2d57fd6339b6e74a3,Antony Burgess: A Clockwork Orange,6425,https://www.labirint.ru/books/972761/
+670d3bc3d57fd6339b6e74a4,Борис Штерн: Недостающее звено. Сборник рассказов,1414,https://www.labirint.ru/books/839710/
+670d3bc4d57fd6339b6e74a5,Джоан Роулинг: Гарри Поттер. Комплект из 7 книг в футляре,6435,https://www.labirint.ru/books/911605/
+670d3bc4d57fd6339b6e74a6,Ольга Леви: Курс на полдень. Невыполненный приказ,732,https://www.labirint.ru/books/1016959/
+670d3bc4d57fd6339b6e74a7,Brigid Kemmerer: A Curse So Dark and Lonely. The Complete Cursebreaker Collection,6787,https://www.labirint.ru/books/839291/
+670d3bc5d57fd6339b6e74a8,"Chuck Palahniuk: Not Forever, But for Now",3917,https://www.labirint.ru/books/996105/
+670d3bc6d57fd6339b6e74a9,Justin Cronin: The City of Mirrors,2934,https://www.labirint.ru/books/905036/
+670d3bc6d57fd6339b6e74aa,"Hannett, Kiernan, Hodge: The Mammoth Book of Cthulhu. New Lovecraftian Fiction",2934,https://www.labirint.ru/books/904635/
+670d3bc7d57fd6339b6e74ab,Павел Шушканов: Карантинная зона,811,https://www.labirint.ru/books/772785/
+670d3bc8d57fd6339b6e74ac,Walter Goodwater: The Liar of Red Valley,2958,https://www.labirint.ru/books/966661/
+670d3bc8d57fd6339b6e74ad,Гийом Прево: Книга времени. Том 2. Семь монет антиквара,1216,https://www.labirint.ru/books/734664/
+670d3bc9d57fd6339b6e74ae,"Кир Булычев: Гай-до. Узники ""Ямагири-мару"".Конец Атлантиды",918,https://www.labirint.ru/books/497537/
+670d3bc9d57fd6339b6e74af,Кир Булычев: Девочка с Земли,1198,https://www.labirint.ru/books/694446/
+670d3bcbd57fd6339b6e74b0,Margaret Atwood: The Handmaid’s Tale,3006,https://www.labirint.ru/books/776586/
+670d3bcbd57fd6339b6e74b1,"Федотов, Плещеева: Русский щит, или Конец Большой игры",732,https://www.labirint.ru/books/1015997/
+670d3bccd57fd6339b6e74b2,Борис Батыршин: Московский Лес. 4 романа в 2 книгах. День ботаника. Клык на холодец. Забытые в небе. Леса хватит,2251,https://www.labirint.ru/books/874869/
+670d3bcdd57fd6339b6e74b3,Mathew West: The House of Footsteps,3025,https://www.labirint.ru/books/898919/
+670d3bcdd57fd6339b6e74b4,M Kuzniar: Midnight in Everwood,3025,https://www.labirint.ru/books/898787/
+670d3bced57fd6339b6e74b5,C.J. Cooke: The Ghost Woods,3025,https://www.labirint.ru/books/899108/
+670d3bced57fd6339b6e74b6,Kirsten Miller: The Change,3025,https://www.labirint.ru/books/898999/
+670d3bcfd57fd6339b6e74b7,Christina Sweeney-Baird: The End Of Men,3025,https://www.labirint.ru/books/898610/
+670d3bd0d57fd6339b6e74b8,Kate Heartfield: The Embroidered Book,3025,https://www.labirint.ru/books/898452/
+670d3bd1d57fd6339b6e74b9,Stefan Spjut: Trolls,3038,https://www.labirint.ru/books/954135/
+670d3bd1d57fd6339b6e74ba,Jessica Johns: Bad Cree,3038,https://www.labirint.ru/books/954449/
+670d3bd2d57fd6339b6e74bb,Марк Твен: Янки из Коннектикута при дворе короля Артура,672,https://www.labirint.ru/books/636770/
+670d3bd3d57fd6339b6e74bc,William Burroughs: Cities of the Red Night,3082,https://www.labirint.ru/books/973088/
+670d3bd4d57fd6339b6e74bd,Dan Simmons: Olympos,3084,https://www.labirint.ru/books/976921/
+670d3bd4d57fd6339b6e74be,T. Huchu: The Mystery at Dunvegan Castle,3088,https://www.labirint.ru/books/980853/
+670d3bd5d57fd6339b6e74bf,Терра Инкогнита: Эльниум. Начало пути,1766,https://www.labirint.ru/books/843966/
+670d3bd6d57fd6339b6e74c0,Lisa Taddeo: Ghost Lover,3100,https://www.labirint.ru/books/881280/
+670d3bd6d57fd6339b6e74c1,Гийом Прево: Книга времени. Том 3. Гробница первого императора,1280,https://www.labirint.ru/books/748745/
+670d3bd7d57fd6339b6e74c2,"Абрамов, Абрамов: Время против времени",1621,https://www.labirint.ru/books/854101/
+670d3bd8d57fd6339b6e74c3,"Абрамов, Абрамов: Синий тайфун",1621,https://www.labirint.ru/books/860581/
+670d3bd8d57fd6339b6e74c4,Александр Абрамов: Гибель шахмат. Повести и рассказы,1621,https://www.labirint.ru/books/854102/
+670d3bd9d57fd6339b6e74c5,"Меррит, Ханнес: Женщина-лиса и голубая пагода. Черное колесо. Романы",1621,https://www.labirint.ru/books/865952/
+670d3bd9d57fd6339b6e74c6,Сергей Павлов: Чердак Вселенной,1621,https://www.labirint.ru/books/870080/
+670d3bdad57fd6339b6e74c7,Сергей Павлов: Волшебный локон Ампары,1621,https://www.labirint.ru/books/870079/
+670d3bdbd57fd6339b6e74c8,"Алексей Масаинов: Легенды Океании. Рассказы, поэзия, очерки",1621,https://www.labirint.ru/books/896192/
+670d3bdcd57fd6339b6e74c9,Всеволод Нестайко: Ящик с секретом,1621,https://www.labirint.ru/books/896194/
+670d3bddd57fd6339b6e74ca,Василий Щепетнев: Переигровка,1621,https://www.labirint.ru/books/915270/
+670d3bddd57fd6339b6e74cb,Андрей Волков: Бесконечность I. Катастрофы разума,1800,https://www.labirint.ru/books/908381/
+670d3bddd57fd6339b6e74cc,Василий Бережной: В звездные миры,1621,https://www.labirint.ru/books/936153/
+670d3bded57fd6339b6e74cd,Валерий Брюсов: Мир семи поколений,1621,https://www.labirint.ru/books/940522/
+670d3bded57fd6339b6e74ce,Герман Мелвилл: Обманщик и его маскарад,1621,https://www.labirint.ru/books/954695/
+670d3bdfd57fd6339b6e74cf,Андрей Дмитрук: Защита Эмбриона,1621,https://www.labirint.ru/books/984605/
+670d3be0d57fd6339b6e74d0,Андрей Волков: Бесконечность вторая. Медальон погибшей принцессы,1800,https://www.labirint.ru/books/1000315/
+670d3be1d57fd6339b6e74d1,Артур Загат: Пьем до дна. Семеро вне времени,1621,https://www.labirint.ru/books/1000656/
+670d3be1d57fd6339b6e74d2,Глеб Голубев: Тайна пирамиды Хирена,1621,https://www.labirint.ru/books/1005737/
+670d3be2d57fd6339b6e74d3,Геннадий Прашкевич: Судовая роль,1621,https://www.labirint.ru/books/1000655/
+670d3be3d57fd6339b6e74d4,Джек Ритчи: Переговорщики,1621,https://www.labirint.ru/books/1007913/
+670d3be3d57fd6339b6e74d5,Метаморфоза Килиана Менке. История одного странного происшествия,1621,https://www.labirint.ru/books/1010875/
+670d3be4d57fd6339b6e74d6,Александр Кизилов: Холодный ветер,1621,https://www.labirint.ru/books/1007910/
+670d3be4d57fd6339b6e74d7,Черный замок,1621,https://www.labirint.ru/books/1010872/
+670d3be5d57fd6339b6e74d8,Fiona Barnett: The Dark Between The Trees,3156,https://www.labirint.ru/books/966675/
+670d3be6d57fd6339b6e74d9,Руперт Кингфишер: Мадам Артишок,874,https://www.labirint.ru/books/815756/
+670d3be7d57fd6339b6e74da,Anne Rice: Blood And Gold,3219,https://www.labirint.ru/books/885657/
+670d3be7d57fd6339b6e74db,Matt Ruff: Bad Monkeys,3266,https://www.labirint.ru/books/922064/
+670d3be8d57fd6339b6e74dc,Джереми Бейтс: Катакомбы Парижа,1186,https://www.labirint.ru/books/733506/
+670d3be8d57fd6339b6e74dd,Nicholas Binge: Ascension,3275,https://www.labirint.ru/books/986415/
+670d3be9d57fd6339b6e74de,Joanne Harris: Broken Light,3317,https://www.labirint.ru/books/976235/
+670d3bead57fd6339b6e74df,Евгения Высокосная: Фантастический детектив. Урри Вульф и похититель собак. История юного изобретателя,632,https://www.labirint.ru/books/816443/
+670d3bead57fd6339b6e74e0,Jonathan Morris: Doctor Who. Touched by an Angel,3339,https://www.labirint.ru/books/973286/
+670d3bebd57fd6339b6e74e1,Dan Abnett: Doctor Who. The Silent Stars Go By,3339,https://www.labirint.ru/books/973272/
+670d3bebd57fd6339b6e74e2,Stephen Cole: Doctor Who. Ten Little Aliens,3339,https://www.labirint.ru/books/973257/
+670d3becd57fd6339b6e74e3,"Cole, Baxendale, Cotterill: Doctor Who. Star Tales",3339,https://www.labirint.ru/books/973254/
+670d3bedd57fd6339b6e74e4,Виктория Ледерман: Теория невероятностей. Комплект из 2-х книг,2268,https://www.labirint.ru/books/640582/
+670d3beed57fd6339b6e74e5,Александр Мазин: Викинг. Последнее лето ярла Ульфа,827,https://www.labirint.ru/books/1017284/
+670d3beed57fd6339b6e74e6,Stephen King: Holly,4087,https://www.labirint.ru/books/987731/
+670d3befd57fd6339b6e74e7,"Дяченко, Дяченко: Ключ от королевства. Комплект из 3 книг",2246,https://www.labirint.ru/books/850427/
+670d3befd57fd6339b6e74e8,Юлия Мазурова: Дверь в Англию,874,https://www.labirint.ru/books/838271/
+670d3bf0d57fd6339b6e74e9,David Whitaker: Doctor Who and the Daleks. Illustrated Edition,7711,https://www.labirint.ru/books/973204/
+670d3bf1d57fd6339b6e74ea,"Макнилл, Дембски-Боуден, Френч: Ересь Хоруса. Книга VIII. Тени предательства",1800,https://www.labirint.ru/books/848594/
+670d3bf1d57fd6339b6e74eb,Джек Лондон: Неслыханное нашествие,926,https://www.labirint.ru/books/850730/
+670d3bf1d57fd6339b6e74ec,"Меррет, Хейли: Образы Ереси. Артбук",4801,https://www.labirint.ru/books/859609/
+670d3bf2d57fd6339b6e74ed,Редьярд Киплинг: Призрак в желтой коляске,862,https://www.labirint.ru/books/938847/
+670d3bf3d57fd6339b6e74ee,Нэнси Фармер: Море троллей,1695,https://www.labirint.ru/books/784642/
+670d3bf3d57fd6339b6e74ef,Уильям Бекфорд: Ватек. В 3-х книгах (комплект),7080,https://www.labirint.ru/books/808581/
+670d3bf5d57fd6339b6e74f0,Stephen King: The Stand,2934,https://www.labirint.ru/books/328605/
+670d3bf5d57fd6339b6e74f1,Stephen King: The Dark Tower,2934,https://www.labirint.ru/books/732142/
+670d3bf6d57fd6339b6e74f2,Dan Vyleta: Soot,2934,https://www.labirint.ru/books/906056/
+670d3bf6d57fd6339b6e74f3,Eowyn Ivey: The Snow Child,2670,https://www.labirint.ru/books/905515/
+670d3bf6d57fd6339b6e74f4,Jodi Taylor: A Second Chance,2670,https://www.labirint.ru/books/905463/
+670d3bf7d57fd6339b6e74f5,Lynsay Sands: Immortal Rising,2670,https://www.labirint.ru/books/905443/
+670d3bf8d57fd6339b6e74f6,Jodi Taylor: Hope for the Best,2670,https://www.labirint.ru/books/905258/
+670d3bf8d57fd6339b6e74f7,Kate Mosse: The Winter Ghosts,2670,https://www.labirint.ru/books/905202/
+670d3bf9d57fd6339b6e74f8,Nina Allan: The Good Neighbours,2670,https://www.labirint.ru/books/905052/
+670d3bf9d57fd6339b6e74f9,Jodi Taylor: A Trail Through Time,2670,https://www.labirint.ru/books/904985/
+670d3bfbd57fd6339b6e74fa,Margaret Atwood: The Year Of The Flood,2670,https://www.labirint.ru/books/904890/
+670d3bfbd57fd6339b6e74fb,Paraic O`Donnell: The House on Vesper Sands,2670,https://www.labirint.ru/books/904706/
+670d3bfbd57fd6339b6e74fc,Louisa Morgan: The Great Witch of Brittany,2670,https://www.labirint.ru/books/904633/
+670d3bfcd57fd6339b6e74fd,Walker Dryden: The City of a Thousand Faces,2670,https://www.labirint.ru/books/904603/
+670d3bfdd57fd6339b6e74fe,Kate Mosse: The Mistletoe Bride and Other Haunting Tales,2670,https://www.labirint.ru/books/904287/
+670d3bfdd57fd6339b6e74ff,Jas Treadwell: The Infernal Riddle of Thomas Peach,2670,https://www.labirint.ru/books/904437/
+670d3bfed57fd6339b6e7500,Juli Zeh: The Method,2602,https://www.labirint.ru/books/885689/
+670d3bfed57fd6339b6e7501,Helen Sedgwick: The Growing Season,2605,https://www.labirint.ru/books/891540/
+670d3bffd57fd6339b6e7502,Kirsty Logan: The Gloaming,2605,https://www.labirint.ru/books/891539/
+670d3c00d57fd6339b6e7503,Eoin Colfer: And Another Thing...,2605,https://www.labirint.ru/books/886978/
+670d3c00d57fd6339b6e7504,Jeanette Winterson: Sexing The Cherry,2605,https://www.labirint.ru/books/886168/
+670d3c01d57fd6339b6e7505,Anthony Marra: A Constellation of Vital Phenomena,2605,https://www.labirint.ru/books/885887/
+670d3c02d57fd6339b6e7506,Guy Kennaway: Bird Brain,2605,https://www.labirint.ru/books/885807/
+670d3c02d57fd6339b6e7507,Robert Neill: Mist Over Pendle,2605,https://www.labirint.ru/books/885750/
+670d3c02d57fd6339b6e7508,Kevin Barry: City of Bohane,2605,https://www.labirint.ru/books/885674/
+670d3c03d57fd6339b6e7509,Audrey Niffenegger: Her Fearful Symmetry,2605,https://www.labirint.ru/books/885385/
+670d3c04d57fd6339b6e750a,Marie Phillips: Gods Behaving Badly,2605,https://www.labirint.ru/books/885278/
+670d3c04d57fd6339b6e750b,Kingsley Amis: The Alteration,2605,https://www.labirint.ru/books/884948/
+670d3c05d57fd6339b6e750c,Kingsley Amis: The Green Man,2605,https://www.labirint.ru/books/884947/
+670d3c06d57fd6339b6e750d,J. Ballard: Vermilion Sands,2605,https://www.labirint.ru/books/884631/
+670d3c07d57fd6339b6e750e,Jose Saramago: Death at Intervals,2607,https://www.labirint.ru/books/891794/
+670d3c07d57fd6339b6e750f,Jeanette Winterson: Frankissstein. A Love Story,2607,https://www.labirint.ru/books/891616/
+670d3c07d57fd6339b6e7510,Ava Reid: The Wolf and the Woodsman,2606,https://www.labirint.ru/books/890805/
+670d3c08d57fd6339b6e7511,Marge Piercy: Woman on the Edge of Time,2607,https://www.labirint.ru/books/890802/
+670d3c09d57fd6339b6e7512,Elizabeth Knox: The Absolute Book,2606,https://www.labirint.ru/books/890751/
+670d3c09d57fd6339b6e7513,Sylvain Neuvel: A History of What Comes Next,2607,https://www.labirint.ru/books/890740/
+670d3c0ad57fd6339b6e7514,Lafcadio Hearn: Japanese Ghost Stories,2607,https://www.labirint.ru/books/888286/
+670d3c0bd57fd6339b6e7515,Luiza Sauma: Everything You Ever Wanted,2607,https://www.labirint.ru/books/888210/
+670d3c0cd57fd6339b6e7516,Stanislaw Lem: The Futurological Congress,2607,https://www.labirint.ru/books/888026/
+670d3c0cd57fd6339b6e7517,Stanislaw Lem: The Cyberiad,2607,https://www.labirint.ru/books/887948/
+670d3c0dd57fd6339b6e7518,Jeanette Winterson: The Stone Gods,2607,https://www.labirint.ru/books/886885/
+670d3c0dd57fd6339b6e7519,Nicole Glover: The Conductors,2608,https://www.labirint.ru/books/890813/
+670d3c0ed57fd6339b6e751a,Tellier le: The Anomaly,2608,https://www.labirint.ru/books/890778/
+670d3c0fd57fd6339b6e751b,Walsh Paton: Knowledge of Angels,2608,https://www.labirint.ru/books/889987/
+670d3c0fd57fd6339b6e751c,Giles Kristian: Wings of the Storm,2608,https://www.labirint.ru/books/889655/
+670d3c10d57fd6339b6e751d,Giles Kristian: Winter's Fire,2608,https://www.labirint.ru/books/889654/
+670d3c11d57fd6339b6e751e,Michael Logan: Apocalypse Cow,2608,https://www.labirint.ru/books/889616/
+670d3c12d57fd6339b6e751f,David Gemmell: Troy. Shield Of Thunder,2608,https://www.labirint.ru/books/889527/
+670d3c13d57fd6339b6e7520,"Romero, Kraus: The Living Dead",2609,https://www.labirint.ru/books/889768/
+670d3c13d57fd6339b6e7521,Матье Габелла: Единорог. Омнибус,1950,https://www.labirint.ru/books/955120/
+670d3c14d57fd6339b6e7522,Yoko Tawada: Scattered All Over the Earth,2633,https://www.labirint.ru/books/954179/
+670d3c14d57fd6339b6e7523,Альберт Мифтахутдинов: Танец маленьких медведей. Очень маленький земной шар. Комплект в двух томах,3240,https://www.labirint.ru/books/989954/
+670d3c15d57fd6339b6e7524,Courttia Newland: Cosmogramma,2633,https://www.labirint.ru/books/953722/
+670d3c16d57fd6339b6e7525,Clarissa Goenawan: Watersong,2633,https://www.labirint.ru/books/954442/
+670d3c16d57fd6339b6e7526,David Musgrave: Lambda,2633,https://www.labirint.ru/books/954397/
+670d3c17d57fd6339b6e7527,Герберт Уэллс: Машина времени. Война миров,1680,https://www.labirint.ru/books/680856/
+670d3c17d57fd6339b6e7528,Samanta Schweblin: Seven Empty Houses,2633,https://www.labirint.ru/books/954352/
+670d3c17d57fd6339b6e7529,Татьяна Донценко: Три аксиомы мироздания,915,https://www.labirint.ru/books/792413/
+670d3c18d57fd6339b6e752a,Джоан Роулинг: Гарри Поттер и узник Азкабана,2594,https://www.labirint.ru/books/911380/
+670d3c19d57fd6339b6e752b,Camilla Grudova: Children of Paradise,2661,https://www.labirint.ru/books/929319/
+670d3c19d57fd6339b6e752c,Neil Gaiman: Fragile Things,2670,https://www.labirint.ru/books/493361/
+670d3c1ad57fd6339b6e752d,Mike Carey: The Devil You Know,2670,https://www.labirint.ru/books/693346/
+670d3c1ad57fd6339b6e752e,Stephen King: Cell,2670,https://www.labirint.ru/books/906057/
+670d3c1bd57fd6339b6e752f,Daniel Keyes: Flowers for Algernon,2670,https://www.labirint.ru/books/705277/
+670d3c1bd57fd6339b6e7530,Claire North: Touch,2670,https://www.labirint.ru/books/906031/
+670d3c1cd57fd6339b6e7531,Brian Catling: Hollow,2670,https://www.labirint.ru/books/906006/
+670d3c1dd57fd6339b6e7532,Stephen Baxter: Obelisk,2670,https://www.labirint.ru/books/905987/
+670d3c1ed57fd6339b6e7533,Jennifer Egan: The Keep,2670,https://www.labirint.ru/books/905945/
+670d3c1fd57fd6339b6e7534,Nick Tyrone: The Patient,2670,https://www.labirint.ru/books/905793/
+670d3c1fd57fd6339b6e7535,Lindqvist Ajvide: Little Star,2670,https://www.labirint.ru/books/905786/
+670d3c1fd57fd6339b6e7536,Justin Cronin: The Passage,2670,https://www.labirint.ru/books/905736/
+670d3c20d57fd6339b6e7537,Christine Feehan: Lethal Game,2670,https://www.labirint.ru/books/905781/
+670d3c20d57fd6339b6e7538,Michael Arditti: The Anointed,2670,https://www.labirint.ru/books/905691/
+670d3c21d57fd6339b6e7539,Alastair Reynolds: Bone Silence,2670,https://www.labirint.ru/books/905658/
+670d3c22d57fd6339b6e753a,Jane Rogers: Body Tourists,2670,https://www.labirint.ru/books/905639/
+670d3c22d57fd6339b6e753b,Brian Catling: The Erstwhile,2670,https://www.labirint.ru/books/905608/
+670d3c23d57fd6339b6e753c,Jodi Taylor: A Symphony of Echoes,2670,https://www.labirint.ru/books/904993/
+670d3c24d57fd6339b6e753d,Michael Moorcock: King of the City,2675,https://www.labirint.ru/books/976723/
+670d3c25d57fd6339b6e753e,Lian Hearn: The Harsh Cry of the Heron,2679,https://www.labirint.ru/books/902973/
+670d3c25d57fd6339b6e753f,Lian Hearn: Heaven's Net is Wide,2679,https://www.labirint.ru/books/902969/
+670d3c26d57fd6339b6e7540,Adrian Tchaikovsky: Children of Ruin,2687,https://www.labirint.ru/books/781154/
+670d3c26d57fd6339b6e7541,Jeff Vandermeer: Shriek. An Afterword,2687,https://www.labirint.ru/books/902926/
+670d3c27d57fd6339b6e7542,Robin Robertson: Grimoire,2687,https://www.labirint.ru/books/955596/
+670d3c28d57fd6339b6e7543,Neal Asher: The Departure,2687,https://www.labirint.ru/books/955523/
+670d3c28d57fd6339b6e7544,"Светлана Решенина: Фантастический цикл о Нарузе. Продавец ветра, Огненная пряха. Комплект из 2-х книг",1027,https://www.labirint.ru/books/1005588/
+670d3c29d57fd6339b6e7545,Михаил Костин: Сфера преображения. Этория 300 лет спустя,2101,https://www.labirint.ru/books/1016657/
+670d3c2ad57fd6339b6e7546,T. Huchu: Our Lady of Mysterious Ailments,2529,https://www.labirint.ru/books/980852/
+670d3c2ad57fd6339b6e7547,Margaret Atwood: The Handmaid's Tale,2703,https://www.labirint.ru/books/891835/
+670d3c2bd57fd6339b6e7548,Абрахам Меррит: Лунный бассейн. Металлическое чудовище,1418,https://www.labirint.ru/books/841392/
+670d3c2bd57fd6339b6e7549,"Абрахам Меррит: Гори, ведьма, гори!",1418,https://www.labirint.ru/books/847687/
+670d3c2cd57fd6339b6e754a,Scott Westerfeld: Shatter City,2766,https://www.labirint.ru/books/919743/
+670d3c2cd57fd6339b6e754b,Scott Westerfeld: Mirror's Edge,2766,https://www.labirint.ru/books/919740/
+670d3c2dd57fd6339b6e754c,Stephen King: Insomnia,2484,https://www.labirint.ru/books/692564/
+670d3c2ed57fd6339b6e754d,Александр Полещук: Падает вверх,1283,https://www.labirint.ru/books/903851/
+670d3c2ed57fd6339b6e754e,"Crichton, Preston: Micro",2505,https://www.labirint.ru/books/985956/
+670d3c30d57fd6339b6e754f,Natasha Pulley: The Watchmaker of Filigree Street,2510,https://www.labirint.ru/books/549794/
+670d3c30d57fd6339b6e7550,Samantha Shannon: The Mask Falling,2510,https://www.labirint.ru/books/881131/
+670d3c31d57fd6339b6e7551,Matthew Baker: Why Visit America,2510,https://www.labirint.ru/books/922226/
+670d3c32d57fd6339b6e7552,Benjamin Myers: The Gallows Pole,2510,https://www.labirint.ru/books/922143/
+670d3c32d57fd6339b6e7553,George Saunders: The Brief and Frightening Reign of Phil,2510,https://www.labirint.ru/books/922113/
+670d3c33d57fd6339b6e7554,George Saunders: Pastoralia,2510,https://www.labirint.ru/books/922112/
+670d3c34d57fd6339b6e7555,C.F. Barrington: The Hastening Storm,2519,https://www.labirint.ru/books/963645/
+670d3c34d57fd6339b6e7556,Susanna Clarke: Jonathan Strange and Mr Norrell,2514,https://www.labirint.ru/books/922054/
+670d3c35d57fd6339b6e7557,T.C. Boyle: A Friend of the Earth,2519,https://www.labirint.ru/books/963607/
+670d3c36d57fd6339b6e7558,Alexander Freed: Star Wars. Victory’s Price,2534,https://www.labirint.ru/books/890812/
+670d3c36d57fd6339b6e7559,John Boyne: This House is Haunted,2534,https://www.labirint.ru/books/889938/
+670d3c37d57fd6339b6e755a,Nick Harkaway: Tigerman,2534,https://www.labirint.ru/books/886080/
+670d3c38d57fd6339b6e755b,Andy Weir: The Martian,2534,https://www.labirint.ru/books/884575/
+670d3c38d57fd6339b6e755c,Jo Harkin: Tell Me an Ending,2534,https://www.labirint.ru/books/931494/
+670d3c39d57fd6339b6e755d,Гийом Прево: Книга времени. Том 1. Последний дар жреца,1216,https://www.labirint.ru/books/699042/
+670d3c39d57fd6339b6e755e,Владимир Куницын: Сюита судьбы,732,https://www.labirint.ru/books/1017618/
+670d3c3bd57fd6339b6e755f,Диана Джонс: Дом с характером,586,https://www.labirint.ru/books/911658/
+670d3c3bd57fd6339b6e7560,Philip Dick: Man in the High Castle,2568,https://www.labirint.ru/books/923708/
+670d3c3cd57fd6339b6e7561,Colson Whitehead: Zone One,2567,https://www.labirint.ru/books/969976/
+670d3c3dd57fd6339b6e7562,William Gibson: Idoru,2567,https://www.labirint.ru/books/889025/
+670d3c3dd57fd6339b6e7563,Emma Straub: This Time Tomorrow,2568,https://www.labirint.ru/books/969252/
+670d3c3ed57fd6339b6e7564,Stephen King: Four Past Midnight,2568,https://www.labirint.ru/books/692561/
+670d3c3ed57fd6339b6e7565,Claudia Gray: Star Wars. The High Republic. The Fallen Star,2568,https://www.labirint.ru/books/891105/
+670d3c3fd57fd6339b6e7566,Margaret Atwood: The Handmaid's Tale,2568,https://www.labirint.ru/books/885256/
+670d3c40d57fd6339b6e7567,"Waterfield, Waterfield: The Greek Myths. Stories of the Greek Gods and Heroes Vividly Retold",2568,https://www.labirint.ru/books/944214/
+670d3c41d57fd6339b6e7568,"Gaiman, Харрис, Линдквист: Fearie Tales. Books of Horror",2568,https://www.labirint.ru/books/910355/
+670d3c41d57fd6339b6e7569,Keith Temple: Doctor Who. Planet of the Ood,2568,https://www.labirint.ru/books/973245/
+670d3c42d57fd6339b6e756a,Pete McTighe: Doctor Who. Kerblam!,2568,https://www.labirint.ru/books/973237/
+670d3c43d57fd6339b6e756b,Gary Russell: Doctor Who. Big Bang Generation,2568,https://www.labirint.ru/books/973215/
+670d3c43d57fd6339b6e756c,Terrance Dicks: Doctor Who and the Genesis of the Daleks,2568,https://www.labirint.ru/books/973206/
+670d3c44d57fd6339b6e756d,David Whitaker: Doctor Who and the Daleks,2568,https://www.labirint.ru/books/973203/
+670d3c44d57fd6339b6e756e,Terrance Dicks: Doctor Who and the Abominable Snowmen,2568,https://www.labirint.ru/books/973202/
+670d3c45d57fd6339b6e756f,Jenny Colgan: Doctor Who. The Triple Knife and Other Doctor Who Stories,2568,https://www.labirint.ru/books/973201/
+670d3c47d57fd6339b6e7570,Susan Hill: Air and Angels,2568,https://www.labirint.ru/books/972864/
+670d3c47d57fd6339b6e7571,Karen Traviss: Star Wars. The Clone Wars,2568,https://www.labirint.ru/books/969778/
+670d3c47d57fd6339b6e7572,Jan Carson: The Raptures,2568,https://www.labirint.ru/books/969695/
+670d3c48d57fd6339b6e7573,Dave Eggers: The Circle,2568,https://www.labirint.ru/books/969321/
+670d3c49d57fd6339b6e7574,"Pratchett, Baxter: The Long Cosmos",2568,https://www.labirint.ru/books/969666/
+670d3c49d57fd6339b6e7575,William Burroughs: The Ticket That Exploded,2568,https://www.labirint.ru/books/968980/
+670d3c4ad57fd6339b6e7576,Mohsin Hamid: The Last White Man,2568,https://www.labirint.ru/books/969111/
+670d3c4bd57fd6339b6e7577,Peter Harness: Doctor Who. The Zygon Invasion,2568,https://www.labirint.ru/books/892151/
+670d3c4bd57fd6339b6e7578,Dan Simmons: Carrion Comfort,2568,https://www.labirint.ru/books/976252/
+670d3c4bd57fd6339b6e7579,Dan Simmons: Ilium,2568,https://www.labirint.ru/books/976679/
+670d3c4cd57fd6339b6e757a,James Luceno: Star Wars. Catalyst. A Rogue One Novel,2570,https://www.labirint.ru/books/891644/
+670d3c4dd57fd6339b6e757b,William Gibson: Zero History,2570,https://www.labirint.ru/books/973942/
+670d3c4ed57fd6339b6e757c,Sylvain Neuvel: Until the Last of Me,2570,https://www.labirint.ru/books/973906/
+670d3c4ed57fd6339b6e757d,Anne Rice: The Wolf Gift,2570,https://www.labirint.ru/books/973883/
+670d3c50d57fd6339b6e757e,Jacqueline Rayner: Doctor Who. The Sontaran Games,2570,https://www.labirint.ru/books/973617/
+670d3c50d57fd6339b6e757f,Pittacus Lore: I Am Number Four,2570,https://www.labirint.ru/books/973431/
+670d3c50d57fd6339b6e7580,Anne Rice: Taltos. Lives of the Mayfair Witches,2570,https://www.labirint.ru/books/973694/
+670d3c51d57fd6339b6e7581,Peter Hamilton: Fallen Dragon,2590,https://www.labirint.ru/books/902471/
+670d3c51d57fd6339b6e7582,Stephen Cox: Our Child of the Stars,2597,https://www.labirint.ru/books/910413/
+670d3c52d57fd6339b6e7583,Jodi Taylor: Long Story Short. A Short Story Collection,2597,https://www.labirint.ru/books/909898/
+670d3c52d57fd6339b6e7584,G Todd: Survivors,2597,https://www.labirint.ru/books/909815/
+670d3c52d57fd6339b6e7585,G Todd: Hunted,2597,https://www.labirint.ru/books/909814/
+670d3c53d57fd6339b6e7586,Ami McKay: The Witches of New York,2597,https://www.labirint.ru/books/909474/
+670d3c54d57fd6339b6e7587,Sharon Cameron: The Dark Unwinding,2766,https://www.labirint.ru/books/918761/
+670d3c55d57fd6339b6e7588,The Best of World SF. Volume 2,2773,https://www.labirint.ru/books/963769/
+670d3c56d57fd6339b6e7589,Джеймс Блэйлок: Глаз идола,1176,https://www.labirint.ru/books/796349/
+670d3c56d57fd6339b6e758a,A.G. Riddle: Pandemic,2773,https://www.labirint.ru/books/963619/
+670d3c56d57fd6339b6e758b,Дэвид Алмонд: Скеллиг,924,https://www.labirint.ru/books/700319/
+670d3c58d57fd6339b6e758c,Cavan Scott: Doctor Who. The Shining Man,2825,https://www.labirint.ru/books/973271/
+670d3c58d57fd6339b6e758d,Una McCormack: Doctor Who. Molten Heart,2825,https://www.labirint.ru/books/973240/
+670d3c59d57fd6339b6e758e,Steve Cole: Doctor Who. Combat Magicks,2825,https://www.labirint.ru/books/973219/
+670d3c59d57fd6339b6e758f,Malcolm Hulke: Doctor Who and the Dinosaur Invasion,2825,https://www.labirint.ru/books/973205/
+670d3c59d57fd6339b6e7590,Ray Russell: The Case Against Satan,2825,https://www.labirint.ru/books/969017/
+670d3c5ad57fd6339b6e7591,Paul Hoffman: The White Devil,2827,https://www.labirint.ru/books/973875/
+670d3c5bd57fd6339b6e7592,"Pratchett, Baxter: The Long Utopia",2827,https://www.labirint.ru/books/973803/
+670d3c5bd57fd6339b6e7593,"Пол Нахин: Тайна машины времени. Путешествия во времени в физике, философии и фантастике",2209,https://www.labirint.ru/books/792562/
+670d3c5cd57fd6339b6e7594,Николай Шагурин: Рубиновая звезда. Тайна Декабриста. Комплект в 2-х томах,3240,https://www.labirint.ru/books/954697/
+670d3c5cd57fd6339b6e7595,"Айзек Азимов: Рассказы ""Черных Вдовцов"" . В 2-х томах",3240,https://www.labirint.ru/books/968275/
+670d3c5dd57fd6339b6e7596,Dorothy Tse: Owlish,2836,https://www.labirint.ru/books/953565/
+670d3c5dd57fd6339b6e7597,Louisa Morgan: The Witch's Kind,2402,https://www.labirint.ru/books/905342/
+670d3c5ed57fd6339b6e7598,Nora Roberts: Of Blood and Bone,2402,https://www.labirint.ru/books/905251/
+670d3c5fd57fd6339b6e7599,Leife Shallcross: The Beast's Heart,2402,https://www.labirint.ru/books/905248/
+670d3c5fd57fd6339b6e759a,Pete Townshend: The Age of Anxiety,2402,https://www.labirint.ru/books/905139/
+670d3c5fd57fd6339b6e759b,Nydia Hetherington: A Girl Made of Air,2402,https://www.labirint.ru/books/905120/
+670d3c60d57fd6339b6e759c,Teri Terry: Contagion,2402,https://www.labirint.ru/books/904825/
+670d3c61d57fd6339b6e759d,Renee Ahdieh: The Wrath and the Dawn,2402,https://www.labirint.ru/books/904815/
+670d3c61d57fd6339b6e759e,Laini Taylor: Dreams of Gods and Monsters,2402,https://www.labirint.ru/books/904624/
+670d3c63d57fd6339b6e759f,Martin Millar: The Good Fairies Of New York,2402,https://www.labirint.ru/books/904595/
+670d3c63d57fd6339b6e75a0,Martin Millar: The Goddess of Buttercups and Daisies,2402,https://www.labirint.ru/books/904401/
+670d3c63d57fd6339b6e75a1,Alexandra Bracken: The Darkest Legacy,2402,https://www.labirint.ru/books/904320/
+670d3c64d57fd6339b6e75a2,Eli Lee: A Strange and Brilliant Light,2402,https://www.labirint.ru/books/904187/
+670d3c64d57fd6339b6e75a3,Sarah Pinborough: The Death House,2402,https://www.labirint.ru/books/905459/
+670d3c65d57fd6339b6e75a4,Claire North: The Gameshouse,2402,https://www.labirint.ru/books/905519/
+670d3c66d57fd6339b6e75a5,Stephen King: Cell,2430,https://www.labirint.ru/books/328600/
+670d3c67d57fd6339b6e75a6,Octavia Butler: Adulthood Rites,2430,https://www.labirint.ru/books/905408/
+670d3c67d57fd6339b6e75a7,Joe Hill: Heart-Shaped Box,2430,https://www.labirint.ru/books/976597/
+670d3c68d57fd6339b6e75a8,Alastair Reynolds: Elysium Fire,2430,https://www.labirint.ru/books/976426/
+670d3c69d57fd6339b6e75a9,Ken MacLeod: Beyond the Reach of Earth,2430,https://www.labirint.ru/books/976205/
+670d3c69d57fd6339b6e75aa,Alastair Reynolds: Absolution Gap,2430,https://www.labirint.ru/books/976069/
+670d3c6bd57fd6339b6e75ab,Jodi Taylor: A Catalogue of Catastrophe,2430,https://www.labirint.ru/books/904663/
+670d3c6bd57fd6339b6e75ac,Stephen King: Desperation,2433,https://www.labirint.ru/books/328601/
+670d3c6bd57fd6339b6e75ad,Кир Булычев: Сто лет тому вперёд,1068,https://www.labirint.ru/books/768721/
+670d3c6cd57fd6339b6e75ae,Сергей Лукьяненко: Форсайт,781,https://www.labirint.ru/books/970410/
+670d3c6dd57fd6339b6e75af,James Herbert: Shrine,2435,https://www.labirint.ru/books/903379/
+670d3c6fd57fd6339b6e75b0,"Helen Oyeyemi: Boy, Snow, Bird",2435,https://www.labirint.ru/books/903298/
+670d3c6fd57fd6339b6e75b1,Lian Hearn: Across the Nightingale Floor,2435,https://www.labirint.ru/books/902972/
+670d3c6fd57fd6339b6e75b2,John Scalzi: The Consuming Fire,2435,https://www.labirint.ru/books/902983/
+670d3c70d57fd6339b6e75b3,Helen Oyeyemi: Mr Fox,2435,https://www.labirint.ru/books/903366/
+670d3c71d57fd6339b6e75b4,Lian Hearn: Brilliance of the Moon,2435,https://www.labirint.ru/books/902970/
+670d3c71d57fd6339b6e75b5,Lian Hearn: Grass for His Pillow,2435,https://www.labirint.ru/books/902971/
+670d3c71d57fd6339b6e75b6,Megan Hunter: The End We Start From,2435,https://www.labirint.ru/books/902936/
+670d3c72d57fd6339b6e75b7,Akkad El: American War,2435,https://www.labirint.ru/books/902907/
+670d3c72d57fd6339b6e75b8,Neal Asher: The Human,2435,https://www.labirint.ru/books/902879/
+670d3c73d57fd6339b6e75b9,Neal Asher: The Gabble - And Other Stories,2435,https://www.labirint.ru/books/902854/
+670d3c74d57fd6339b6e75ba,Neal Asher: Infinity Engine,2435,https://www.labirint.ru/books/902853/
+670d3c75d57fd6339b6e75bb,Neal Asher: Jupiter War,2435,https://www.labirint.ru/books/902852/
+670d3c76d57fd6339b6e75bc,Peter Hamilton: A Second Chance at Eden,2435,https://www.labirint.ru/books/902851/
+670d3c76d57fd6339b6e75bd,Peter Hamilton: Misspent Youth,2435,https://www.labirint.ru/books/902472/
+670d3c77d57fd6339b6e75be,James Herbert: Lair,2444,https://www.labirint.ru/books/955612/
+670d3c77d57fd6339b6e75bf,James Herbert: Domain,2444,https://www.labirint.ru/books/955606/
+670d3c77d57fd6339b6e75c0,James Herbert: Haunted,2444,https://www.labirint.ru/books/955599/
+670d3c78d57fd6339b6e75c1,Megan Hunter: The Harpy,2444,https://www.labirint.ru/books/955573/
+670d3c79d57fd6339b6e75c2,Neal Asher: Gridlinked,2444,https://www.labirint.ru/books/955558/
+670d3c79d57fd6339b6e75c3,Neal Asher: Zero Point,2444,https://www.labirint.ru/books/955557/
+670d3c7bd57fd6339b6e75c4,Helen Oyeyemi: Gingerbread,2444,https://www.labirint.ru/books/955541/
+670d3c7bd57fd6339b6e75c5,China Mieville: Un Lun Dun,2444,https://www.labirint.ru/books/955551/
+670d3c7cd57fd6339b6e75c6,Mandel Emily St. John: Sea of Tranquility,2444,https://www.labirint.ru/books/955428/
+670d3c7cd57fd6339b6e75c7,John Scalzi: The Collapsing Empire,2444,https://www.labirint.ru/books/955377/
+670d3c7cd57fd6339b6e75c8,T. Huchu: The Library of the Dead,2444,https://www.labirint.ru/books/955353/
+670d3c7dd57fd6339b6e75c9,John Scalzi: The Kaiju Preservation Society,2444,https://www.labirint.ru/books/955303/
+670d3c7ed57fd6339b6e75ca,"Викулин, Журавлева, Хукаленко: Сборник современных фантастов",1408,https://www.labirint.ru/books/964036/
+670d3c7fd57fd6339b6e75cb,Роберт Штильмарк: Наследник из Калькутты,1924,https://www.labirint.ru/books/840235/
+670d3c7fd57fd6339b6e75cc,Steven Erikson: The Second Collected Tales of Bauchelain & Korbal Broach,2475,https://www.labirint.ru/books/890025/
+670d3c80d57fd6339b6e75cd,Susan Barker: The Incarnations,2475,https://www.labirint.ru/books/891243/
+670d3c81d57fd6339b6e75ce,Naomi Alderman: The Power,2475,https://www.labirint.ru/books/888905/
+670d3c81d57fd6339b6e75cf,Ernest Cline: Ready Player Two,2477,https://www.labirint.ru/books/891738/
+670d3c82d57fd6339b6e75d0,Anne Rice: Merrick,2477,https://www.labirint.ru/books/885658/
+670d3c83d57fd6339b6e75d1,Яков Лович: Шанхайцы. Комплект в 2-х томах,2836,https://www.labirint.ru/books/882068/
+670d3c84d57fd6339b6e75d2,Вячеслав Бондаренко: Самый долгий день,1621,https://www.labirint.ru/books/874612/
+670d3c84d57fd6339b6e75d3,Roger Zelazny: The Best of Roger Zelazny,2642,https://www.labirint.ru/books/987815/
+670d3c85d57fd6339b6e75d4,Dan Simmons: Black Hills,2873,https://www.labirint.ru/books/976211/
+670d3c86d57fd6339b6e75d5,S. Emmett: The Bloody Throne,2880,https://www.labirint.ru/books/908582/
+670d3c87d57fd6339b6e75d6,Kate Hardie: This Is Where We Live,2890,https://www.labirint.ru/books/986529/
+670d3c87d57fd6339b6e75d7,Кир Булычев: Тринадцать лет пути,920,https://www.labirint.ru/books/613182/
+670d3c88d57fd6339b6e75d8,Jacob Kerr: The Green Man of Eshwood Hall. A Tale of Nothalbion,2899,https://www.labirint.ru/books/988233/
+670d3c89d57fd6339b6e75d9,Deborah Willis: Girlfriend on Mars,2899,https://www.labirint.ru/books/988220/
+670d3c89d57fd6339b6e75da,Александр Беляев: Остров Погибших Кораблей. Голова профессора Доуэля,1602,https://www.labirint.ru/books/655700/
+670d3c8ad57fd6339b6e75db,Kira Buxton: Hollow Kingdom,2934,https://www.labirint.ru/books/905536/
+670d3c8ad57fd6339b6e75dc,Daniel Polansky: A City Dreaming,2934,https://www.labirint.ru/books/905464/
+670d3c8bd57fd6339b6e75dd,Jodi Taylor: The Nothing Girl,2934,https://www.labirint.ru/books/905357/
+670d3c8dd57fd6339b6e75de,M. Wheaton: Emily Eternal,2402,https://www.labirint.ru/books/905628/
+670d3c8ed57fd6339b6e75df,M. Kuhn: Among Thieves,2402,https://www.labirint.ru/books/905586/
+670d3c8ed57fd6339b6e75e0,Yong Jin: A Heart Divided,2402,https://www.labirint.ru/books/905451/
+670d3c8fd57fd6339b6e75e1,Alison Littlewood: The Hidden People,2363,https://www.labirint.ru/books/910395/
+670d3c8fd57fd6339b6e75e2,Yong Jin: A Bond Undone,2363,https://www.labirint.ru/books/910382/
+670d3c90d57fd6339b6e75e3,Yong Jin: A Snake Lies Waiting,2363,https://www.labirint.ru/books/910381/
+670d3c91d57fd6339b6e75e4,Neil Spring: The Lost Village,2363,https://www.labirint.ru/books/910379/
+670d3c91d57fd6339b6e75e5,Jim Shepard: Phase Six,2363,https://www.labirint.ru/books/910314/
+670d3c92d57fd6339b6e75e6,Gwyneth Jones: Kairos,2363,https://www.labirint.ru/books/910007/
+670d3c93d57fd6339b6e75e7,John Ford: Aspects,2363,https://www.labirint.ru/books/909999/
+670d3c93d57fd6339b6e75e8,Lynsay Sands: Meant to Be Immortal,2363,https://www.labirint.ru/books/909995/
+670d3c94d57fd6339b6e75e9,Gwyneth Jones: Bold As Love,2363,https://www.labirint.ru/books/909994/
+670d3c95d57fd6339b6e75ea,Emiko Jean: Empress of all Seasons,2363,https://www.labirint.ru/books/909990/
+670d3c96d57fd6339b6e75eb,Octavia Butler: Wild Seed,2363,https://www.labirint.ru/books/909938/
+670d3c96d57fd6339b6e75ec,Octavia Butler: Clay's Ark,2363,https://www.labirint.ru/books/909940/
+670d3c97d57fd6339b6e75ed,"Jodi Taylor: Another Time, Another Place",2363,https://www.labirint.ru/books/909915/
+670d3c97d57fd6339b6e75ee,James Gunn: Marvel's The Guardians of the Galaxy. Volume 2. Level 4,2325,https://www.labirint.ru/books/880568/
+670d3c98d57fd6339b6e75ef,Marvel's The Avengers. Level 2 + MP3 + CD,2325,https://www.labirint.ru/books/880567/
+670d3c98d57fd6339b6e75f0,Doctor Who. Face The Raven. Level 3,2325,https://www.labirint.ru/books/929974/
+670d3c99d57fd6339b6e75f1,Игорь Шнуренко: Солнечный ворон,1740,https://www.labirint.ru/books/848532/
+670d3c99d57fd6339b6e75f2,Maggie Stiefvater: Shiver,2340,https://www.labirint.ru/books/919993/
+670d3c9ad57fd6339b6e75f3,Maggie Stiefvater: Linger,2340,https://www.labirint.ru/books/919992/
+670d3c9ad57fd6339b6e75f4,Maggie Stiefvater: Forever,2340,https://www.labirint.ru/books/919991/
+670d3c9bd57fd6339b6e75f5,Melissa Scott: Gen:Lock. Storm Warning,2340,https://www.labirint.ru/books/919205/
+670d3c9bd57fd6339b6e75f6,Kaitlin Ward: Where She Fell,2340,https://www.labirint.ru/books/919190/
+670d3c9cd57fd6339b6e75f7,Robert Dinsdale: The Toymakers,2342,https://www.labirint.ru/books/892003/
+670d3c9dd57fd6339b6e75f8,Jian Ma: China Dream,2344,https://www.labirint.ru/books/891592/
+670d3c9dd57fd6339b6e75f9,Conor O`Callaghan: Nothing On Earth,2344,https://www.labirint.ru/books/891281/
+670d3c9dd57fd6339b6e75fa,A. Warren: The Fourth Species,2344,https://www.labirint.ru/books/890811/
+670d3c9fd57fd6339b6e75fb,Alma Katsu: The Deep,2344,https://www.labirint.ru/books/890413/
+670d3c9fd57fd6339b6e75fc,A. Warren: The Hidden Base,2344,https://www.labirint.ru/books/890810/
+670d3ca0d57fd6339b6e75fd,Nell Freudenberger: Lost and Wanted,2344,https://www.labirint.ru/books/888273/
+670d3ca0d57fd6339b6e75fe,Malorie Blackman: Noughts & Crosses,2344,https://www.labirint.ru/books/887845/
+670d3ca1d57fd6339b6e75ff,Marie Lu: Champion,2344,https://www.labirint.ru/books/887671/
+670d3ca2d57fd6339b6e7600,Marie Lu: Legend,2344,https://www.labirint.ru/books/887670/
+670d3ca2d57fd6339b6e7601,Pittacus Lore: The Power of Six,2344,https://www.labirint.ru/books/887067/
+670d3ca3d57fd6339b6e7602,Susan Hill: I'm the King of the Castle,2344,https://www.labirint.ru/books/886279/
+670d3ca4d57fd6339b6e7603,Minette Walters: The Cellar,2344,https://www.labirint.ru/books/886138/
+670d3ca4d57fd6339b6e7604,Margaret Atwood: The Testaments,2345,https://www.labirint.ru/books/781185/
+670d3ca5d57fd6339b6e7605,Pittacus Lore: The Revenge of Seven,2346,https://www.labirint.ru/books/890493/
+670d3ca6d57fd6339b6e7606,Ransom Riggs: The Desolations of Devil's Acre,2346,https://www.labirint.ru/books/888036/
+670d3ca7d57fd6339b6e7607,Ally Condie: Matched,2346,https://www.labirint.ru/books/887654/
+670d3ca7d57fd6339b6e7608,Charlie Higson: The Enemy,2346,https://www.labirint.ru/books/887611/
+670d3ca8d57fd6339b6e7609,Paul Hoffman: The Left Hand of God,2346,https://www.labirint.ru/books/328593/
+670d3ca9d57fd6339b6e760a,Kirsty Logan: The Gracekeepers,2346,https://www.labirint.ru/books/891381/
+670d3ca9d57fd6339b6e760b,Francine Toon: Pine,2346,https://www.labirint.ru/books/891361/
+670d3caad57fd6339b6e760c,Camilla Bruce: You Let Me In,2346,https://www.labirint.ru/books/891356/
+670d3caad57fd6339b6e760d,Gavin Chait: Lament for the Fallen,2346,https://www.labirint.ru/books/891277/
+670d3cabd57fd6339b6e760e,A. Warren: Subject Twenty-One,2346,https://www.labirint.ru/books/890809/
+670d3cacd57fd6339b6e760f,Damian Dibben: Tomorrow,2346,https://www.labirint.ru/books/890578/
+670d3cacd57fd6339b6e7610,Robert Sheckley: Dimension of Miracles,2346,https://www.labirint.ru/books/888617/
+670d3cadd57fd6339b6e7611,Andreas Eschbach: The Hair Carpet Weavers,2346,https://www.labirint.ru/books/888541/
+670d3caed57fd6339b6e7612,David Lindsay: A Voyage to Arcturus,2346,https://www.labirint.ru/books/888487/
+670d3caed57fd6339b6e7613,Kate Atkinson: Human Croquet,2347,https://www.labirint.ru/books/889982/
+670d3cafd57fd6339b6e7614,"Gemmell, Gemmell: Troy. Fall Of Kings",2347,https://www.labirint.ru/books/889528/
+670d3cafd57fd6339b6e7615,Старк Холборн: Десятка Лоу,811,https://www.labirint.ru/books/848209/
+670d3cafd57fd6339b6e7616,Джеральд Бром: Косиног. История о колдовстве,1052,https://www.labirint.ru/books/830558/
+670d3cb1d57fd6339b6e7617,Helen Dunmore: The Greatcoat,2356,https://www.labirint.ru/books/892173/
+670d3cb1d57fd6339b6e7618,Jeanette Winterson: The Daylight Gate,2356,https://www.labirint.ru/books/892172/
+670d3cb2d57fd6339b6e7619,Adrian Walker: The Last Dog on Earth,2356,https://www.labirint.ru/books/892000/
+670d3cb3d57fd6339b6e761a,Angelica Gorodischer: Trafalgar,2356,https://www.labirint.ru/books/888594/
+670d3cb3d57fd6339b6e761b,Benjamin Percy: The Unfamiliar Garden,2358,https://www.labirint.ru/books/910100/
+670d3cb3d57fd6339b6e761c,Holly Cave: The Memory Chamber,2358,https://www.labirint.ru/books/910406/
+670d3cb4d57fd6339b6e761d,Christopher Priest: An American Story,2358,https://www.labirint.ru/books/909979/
+670d3cb5d57fd6339b6e761e,Dean Koontz: Twilight Eyes,2358,https://www.labirint.ru/books/909849/
+670d3cb6d57fd6339b6e761f,Геннадий Прашкевич: Последний карантин,1215,https://www.labirint.ru/books/789897/
+670d3cb7d57fd6339b6e7620,Жозе Мозелли: Гибель Иллы,1215,https://www.labirint.ru/books/789894/
+670d3cb7d57fd6339b6e7621,Александр Шалимов: Пир Валтасара,1215,https://www.labirint.ru/books/789873/
+670d3cb8d57fd6339b6e7622,Жан Рэй: Джон Фландерс. Таинственный человек дождя,1215,https://www.labirint.ru/books/789831/
+670d3cb9d57fd6339b6e7623,Виктор Колупаев: Кирена и Гент,1215,https://www.labirint.ru/books/789821/
+670d3cb9d57fd6339b6e7624,Эдмон Арокур: Канун бессмертия. Рассказы о будущем и настоящем,1215,https://www.labirint.ru/books/795506/
+670d3cbad57fd6339b6e7625,Евгений Филенко: Дарю вам этот мир,1215,https://www.labirint.ru/books/795507/
+670d3cbad57fd6339b6e7626,Дмитрий Биленкин: Проблема подарка,1215,https://www.labirint.ru/books/834787/
+670d3cbbd57fd6339b6e7627,Питер Гамильтон: Иуда освобожденный,1350,https://www.labirint.ru/books/874823/
+670d3cbbd57fd6339b6e7628,Neil Gaiman: The Ocean at the End of the Lane,2363,https://www.labirint.ru/books/549767/
+670d3cbdd57fd6339b6e7629,Jodi Taylor: Plan for the Worst,2363,https://www.labirint.ru/books/909899/
+670d3cbdd57fd6339b6e762a,Jodi Taylor: What Could Possibly Go Wrong?,2363,https://www.labirint.ru/books/909890/
+670d3cbed57fd6339b6e762b,Jodi Taylor: No Time Like The Past,2363,https://www.labirint.ru/books/909889/
+670d3cbed57fd6339b6e762c,Jodi Taylor: The Long and the Short of it,2363,https://www.labirint.ru/books/909888/
+670d3cbfd57fd6339b6e762d,"Jodi Taylor: Lies, Damned Lies, and History",2363,https://www.labirint.ru/books/909887/
+670d3cbfd57fd6339b6e762e,Jodi Taylor: An Argumentation of Historians,2363,https://www.labirint.ru/books/909886/
+670d3cc0d57fd6339b6e762f,Jodi Taylor: And the Rest is History,2363,https://www.labirint.ru/books/909885/
+670d3cc1d57fd6339b6e7630,Dean Koontz: False Memory,2363,https://www.labirint.ru/books/909848/
+670d3cc2d57fd6339b6e7631,Dean Koontz: The Vision,2363,https://www.labirint.ru/books/909847/
+670d3cc2d57fd6339b6e7632,Laurell Hamilton: Sucker Punch,2363,https://www.labirint.ru/books/909834/
+670d3cc2d57fd6339b6e7633,Jennie Melamed: Gather the Daughters,2363,https://www.labirint.ru/books/909833/
+670d3cc3d57fd6339b6e7634,Jess Richards: Snake Ropes,2363,https://www.labirint.ru/books/909648/
+670d3cc4d57fd6339b6e7635,Lindqvist Ajvide: Let the Old Dreams Die,2363,https://www.labirint.ru/books/909380/
+670d3cc5d57fd6339b6e7636,Laurell Hamilton: Guilty Pleasures,2363,https://www.labirint.ru/books/909315/
+670d3cc5d57fd6339b6e7637,Mark Alder: Son of the Night,2363,https://www.labirint.ru/books/908952/
+670d3cc5d57fd6339b6e7638,Tade Thompson: The Rosewater Redemption,2363,https://www.labirint.ru/books/908946/
+670d3cc6d57fd6339b6e7639,Camilla Grudova: The Doll’s Alphabet,2227,https://www.labirint.ru/books/953602/
+670d3cc7d57fd6339b6e763a,Claire Fuller: Our Endless Numbered Days,2230,https://www.labirint.ru/books/813865/
+670d3cc8d57fd6339b6e763b,Филипп Керр: Джинн в плену Эхнатона,912,https://www.labirint.ru/books/768948/
+670d3cc9d57fd6339b6e763c,T. White: The Once and Future King,2234,https://www.labirint.ru/books/897362/
+670d3cc9d57fd6339b6e763d,Владислав Крапивин: Самолет по имени Серёжка,984,https://www.labirint.ru/books/715162/
+670d3ccad57fd6339b6e763e,Джон Никопол: Туманные земли. Тайна спящих великанов,1286,https://www.labirint.ru/books/822723/
+670d3ccad57fd6339b6e763f,William Sutcliffe: We See Everything,2260,https://www.labirint.ru/books/922539/
+670d3ccbd57fd6339b6e7640,"Yoon, Шваб, Мейер: Because You Love to Hate Me. 13 Tales of Villainy",2260,https://www.labirint.ru/books/922498/
+670d3ccbd57fd6339b6e7641,William Sutcliffe: The Wall,2260,https://www.labirint.ru/books/922399/
+670d3cccd57fd6339b6e7642,Gemma Malley: The Resistance,2260,https://www.labirint.ru/books/922386/
+670d3cccd57fd6339b6e7643,Gemma Malley: The Declaration,2260,https://www.labirint.ru/books/922387/
+670d3ccdd57fd6339b6e7644,Gemma Malley: The Legacy,2260,https://www.labirint.ru/books/922385/
+670d3ccdd57fd6339b6e7645,Thomas McMullan: The Last Good Man,2260,https://www.labirint.ru/books/922233/
+670d3cced57fd6339b6e7646,Zoe Gilbert: Folk,2260,https://www.labirint.ru/books/922142/
+670d3ccfd57fd6339b6e7647,Ali Shaw: The Trees,2260,https://www.labirint.ru/books/922099/
+670d3ccfd57fd6339b6e7648,Stephen Chbosky: Imaginary Friend,2262,https://www.labirint.ru/books/817265/
+670d3cd0d57fd6339b6e7649,Octavia Butler: Imago,2262,https://www.labirint.ru/books/906030/
+670d3cd1d57fd6339b6e764a,Margaret Atwood: MaddAddam,2262,https://www.labirint.ru/books/905899/
+670d3cd1d57fd6339b6e764b,Margaret Atwood: Oryx And Crake,2262,https://www.labirint.ru/books/905500/
+670d3cd2d57fd6339b6e764c,Dean Koontz: Lightning,2262,https://www.labirint.ru/books/909808/
+670d3cd2d57fd6339b6e764d,"Herbert, Андерсон: The Butlerian Jihad",2262,https://www.labirint.ru/books/977322/
+670d3cd3d57fd6339b6e764e,Alastair Reynolds: Revenger,2262,https://www.labirint.ru/books/977070/
+670d3cd4d57fd6339b6e764f,Alastair Reynolds: Redemption Ark,2262,https://www.labirint.ru/books/977059/
+670d3cd5d57fd6339b6e7650,Cole Haddon: Psalms for the End of the World,2262,https://www.labirint.ru/books/976994/
+670d3cd5d57fd6339b6e7651,Stephen King: Stephen King Goes to the Movies,2262,https://www.labirint.ru/books/904526/
+670d3cd6d57fd6339b6e7652,Павел Шушканов: Белый шум,863,https://www.labirint.ru/books/978147/
+670d3cd6d57fd6339b6e7653,Stephen King: Dark Tower V: Wolves of the Calla,2267,https://www.labirint.ru/books/692551/
+670d3cd7d57fd6339b6e7654,Евгений Велтистов: Электроник - мальчик из чемодана,864,https://www.labirint.ru/books/830745/
+670d3cd8d57fd6339b6e7655,Michelle Paver: Wakenhyrst,2268,https://www.labirint.ru/books/963806/
+670d3cd9d57fd6339b6e7656,Ken Liu: Invisible Planets,2268,https://www.labirint.ru/books/963760/
+670d3cd9d57fd6339b6e7657,Jingfang Hao: Vagabonds,2268,https://www.labirint.ru/books/963722/
+670d3cd9d57fd6339b6e7658,Cixin Liu: The Supernova Era,2268,https://www.labirint.ru/books/963657/
+670d3cdad57fd6339b6e7659,Cixin Liu: Ball Lightning,2268,https://www.labirint.ru/books/963656/
+670d3cdbd57fd6339b6e765a,Qiufan Chen: Waste Tide,2268,https://www.labirint.ru/books/963651/
+670d3cdbd57fd6339b6e765b,C.F. Barrington: The Blood Isles,2268,https://www.labirint.ru/books/963647/
+670d3cdcd57fd6339b6e765c,C.F. Barrington: The Wolf Mile,2268,https://www.labirint.ru/books/963646/
+670d3cddd57fd6339b6e765d,Ben Okri: The Freedom Artist,2268,https://www.labirint.ru/books/963640/
+670d3cddd57fd6339b6e765e,A.G. Riddle: Genome,2268,https://www.labirint.ru/books/963620/
+670d3cded57fd6339b6e765f,Игорь Москвин: Новые приключения Путилина. Зловещая находка,1350,https://www.labirint.ru/books/841394/
+670d3cded57fd6339b6e7660,Jules Verne: Journey to the Centre of the Earth,2282,https://www.labirint.ru/books/885417/
+670d3cdfd57fd6339b6e7661,Jessamine Chan: The School for Good Mothers,2282,https://www.labirint.ru/books/931706/
+670d3ce0d57fd6339b6e7662,Alexandra Bell: The Winter Garden,2282,https://www.labirint.ru/books/931648/
+670d3ce1d57fd6339b6e7663,Джереми Бейтс: Лес самоубийц,1134,https://www.labirint.ru/books/718651/
+670d3ce1d57fd6339b6e7664,Сергей Снегов: Галактическая одиссея,876,https://www.labirint.ru/books/1006542/
+670d3ce3d57fd6339b6e7665,Дмитрий Шелег: Первые и Вторые. Первый сезон. Медведь,1317,https://www.labirint.ru/books/943815/
+670d3ce4d57fd6339b6e7666,William Friend: Black Mamba,2306,https://www.labirint.ru/books/929291/
+670d3ce4d57fd6339b6e7667,Rick Yancey: The Infinite Sea,2310,https://www.labirint.ru/books/968881/
+670d3ce4d57fd6339b6e7668,James Tiptree: Ten Thousand Light-Years From Home,2311,https://www.labirint.ru/books/888599/
+670d3ce5d57fd6339b6e7669,Samuel Delany: Driftglass,2311,https://www.labirint.ru/books/973308/
+670d3ce6d57fd6339b6e766a,Juno Dawson: Doctor Who. The Good Doctor,2311,https://www.labirint.ru/books/973262/
+670d3ce7d57fd6339b6e766b,Jonathan Morris: Doctor Who. Plague City,2311,https://www.labirint.ru/books/973244/
+670d3ce8d57fd6339b6e766c,Rick Yancey: The 5th Wave,2311,https://www.labirint.ru/books/969622/
+670d3ce8d57fd6339b6e766d,Pittacus Lore: The Rise of Nine,2311,https://www.labirint.ru/books/969157/
+670d3ce9d57fd6339b6e766e,Rick Yancey: The Last Star,2311,https://www.labirint.ru/books/968899/
+670d3ce9d57fd6339b6e766f,Michael Crichton: Prey,2312,https://www.labirint.ru/books/896917/
+670d3cead57fd6339b6e7670,Sue Rainsford: Redder Days,2314,https://www.labirint.ru/books/973624/
+670d3cead57fd6339b6e7671,Ally Condie: Reached,2314,https://www.labirint.ru/books/973621/
+670d3cebd57fd6339b6e7672,Malorie Blackman: Noble Conflict,2314,https://www.labirint.ru/books/973560/
+670d3cecd57fd6339b6e7673,"Thompson, Newman, Meloy: Creatures. The Legacy of Frankenstein",2367,https://www.labirint.ru/books/966645/
+670d3cecd57fd6339b6e7674,Tade Thompson: The Rosewater Insurrection,2363,https://www.labirint.ru/books/908945/
+670d3cedd57fd6339b6e7675,Ирина Габбасова: Почти всемогущие,863,https://www.labirint.ru/books/979888/
+670d3ceed57fd6339b6e7676,Роберт Говард: Соломон Кейн и другие герои. Рассказы и повести,909,https://www.labirint.ru/books/851387/
+670d3ceed57fd6339b6e7677,J. Miro: Ordinary Monsters,2390,https://www.labirint.ru/books/983904/
+670d3cefd57fd6339b6e7678,Alan Burns: Dreamerika! A Surrealist Fantasy,2394,https://www.labirint.ru/books/960803/
+670d3cf0d57fd6339b6e7679,William Gibson: Count Zero,2402,https://www.labirint.ru/books/590750/
+670d3cf0d57fd6339b6e767a,Владислав Крапивин: Дагги-Тиц,1144,https://www.labirint.ru/books/588215/
+670d3cf0d57fd6339b6e767b,C. Fletcher: A Boy and his Dog at the End of the World,2402,https://www.labirint.ru/books/732168/
+670d3cf1d57fd6339b6e767c,Stephen King: The Institute,2402,https://www.labirint.ru/books/769237/
+670d3cf2d57fd6339b6e767d,Stephen King: Elevation,2402,https://www.labirint.ru/books/769234/
+670d3cf2d57fd6339b6e767e,Richard Morgan: Altered Carbon,2402,https://www.labirint.ru/books/807251/
+670d3cf3d57fd6339b6e767f,S Morden: No Way,2402,https://www.labirint.ru/books/906009/
+670d3cf4d57fd6339b6e7680,Dan Vyleta: Smoke,2402,https://www.labirint.ru/books/906037/
+670d3cf4d57fd6339b6e7681,M. Carey: Fellside,2402,https://www.labirint.ru/books/905951/
+670d3cf5d57fd6339b6e7682,Kass Morgan: Rebellion,2402,https://www.labirint.ru/books/905911/
+670d3cf5d57fd6339b6e7683,Павел Шушканов: Ложная память,1356,https://www.labirint.ru/books/819029/
+670d3cf6d57fd6339b6e7684,Stephen King: Pet Sematary,2162,https://www.labirint.ru/books/692579/
+670d3cf7d57fd6339b6e7685,Stephen King: Different Seasons,2162,https://www.labirint.ru/books/692556/
+670d3cf7d57fd6339b6e7686,Stephen King: It,2162,https://www.labirint.ru/books/906066/
+670d3cf7d57fd6339b6e7687,Dan Simmons: The Abominable,2162,https://www.labirint.ru/books/977247/
+670d3cf8d57fd6339b6e7688,"King, Кинг: Sleeping Beauties",2162,https://www.labirint.ru/books/977165/
+670d3cf9d57fd6339b6e7689,Tobi Hirotaka: The Thousand Year Beach,2168,https://www.labirint.ru/books/966764/
+670d3cfad57fd6339b6e768a,Kazuki Sakuraba: A Small Charred Face,2168,https://www.labirint.ru/books/966254/
+670d3cfad57fd6339b6e768b,Stephen King: Duma Key,2172,https://www.labirint.ru/books/406715/
+670d3cfbd57fd6339b6e768c,Stephen King: Nightmares and Dreamscapes,2172,https://www.labirint.ru/books/692576/
+670d3cfcd57fd6339b6e768d,Stephen King: Christine,2172,https://www.labirint.ru/books/692541/
+670d3cfcd57fd6339b6e768e,Brandon Sanderson: Skyward,2172,https://www.labirint.ru/books/905967/
+670d3cfdd57fd6339b6e768f,Pierce Brown: Dark Age,2172,https://www.labirint.ru/books/905940/
+670d3cfdd57fd6339b6e7690,Stephen King: If It Bleeds,2172,https://www.labirint.ru/books/905666/
+670d3cfed57fd6339b6e7691,Alastair Reynolds: Revelation Space,2172,https://www.labirint.ru/books/956186/
+670d3cffd57fd6339b6e7692,"King, Чизмар: Gwendy's Final Task",2172,https://www.labirint.ru/books/956120/
+670d3cffd57fd6339b6e7693,Sheri Tepper: Grass,2172,https://www.labirint.ru/books/956118/
+670d3d00d57fd6339b6e7694,Stephen King: End of Watch,2172,https://www.labirint.ru/books/956097/
+670d3d00d57fd6339b6e7695,Clive Barker: The Damnation Game,2172,https://www.labirint.ru/books/977351/
+670d3d01d57fd6339b6e7696,"Herbert, Андерсон: The Battle of Corrin",2172,https://www.labirint.ru/books/977273/
+670d3d02d57fd6339b6e7697,"Herbert, Андерсон: Paul of Dune",2172,https://www.labirint.ru/books/976958/
+670d3d02d57fd6339b6e7698,Corey James S. A.: Memory's Legion. The Complete Expanse Story Collection,2172,https://www.labirint.ru/books/976834/
+670d3d03d57fd6339b6e7699,Джереми Бейтс: Остров Кукол,1154,https://www.labirint.ru/books/721687/
+670d3d03d57fd6339b6e769a,"Баркер, Кэрролл, Стрейндж: Страшно — но не оторваться. Комплект из 3-х книг",2486,https://www.labirint.ru/books/1005780/
+670d3d05d57fd6339b6e769b,Jay Bonansinga: Return to Woodbury,2191,https://www.labirint.ru/books/903213/
+670d3d05d57fd6339b6e769c,John Scalzi: The Ghost Brigades,2191,https://www.labirint.ru/books/903137/
+670d3d06d57fd6339b6e769d,Neal Asher: Prador Moon,2191,https://www.labirint.ru/books/902855/
+670d3d06d57fd6339b6e769e,Jane Rawson: From The Wreck,2191,https://www.labirint.ru/books/902723/
+670d3d07d57fd6339b6e769f,Don DeLillo: The Body Artist,2198,https://www.labirint.ru/books/903372/
+670d3d07d57fd6339b6e76a0,Jeff Vandermeer: Veniss Underground,2198,https://www.labirint.ru/books/902924/
+670d3d08d57fd6339b6e76a1,Sally Hinchcliffe: Hare House,2198,https://www.labirint.ru/books/955548/
+670d3d09d57fd6339b6e76a2,Clive Barker: The Scarlet Gospels,2198,https://www.labirint.ru/books/955400/
+670d3d0ad57fd6339b6e76a3,Genevieve Cogman: The Invisible Library,2198,https://www.labirint.ru/books/955372/
+670d3d0bd57fd6339b6e76a4,Neal Asher: Shadow of the Scorpion,2198,https://www.labirint.ru/books/955359/
+670d3d0bd57fd6339b6e76a5,T. Huchu: Our Lady of Mysterious Ailments,2198,https://www.labirint.ru/books/955292/
+670d3d0cd57fd6339b6e76a6,John Fowles: The Magus,2204,https://www.labirint.ru/books/875534/
+670d3d0dd57fd6339b6e76a7,Drew Karpyshyn: Star Wars. Darth Bane. Rule of Two,2204,https://www.labirint.ru/books/891144/
+670d3d0dd57fd6339b6e76a8,Кейт Милфорд: Воровской узел,1785,https://www.labirint.ru/books/920600/
+670d3d0dd57fd6339b6e76a9,Jasper Fforde: Early Riser,2210,https://www.labirint.ru/books/905742/
+670d3d0ed57fd6339b6e76aa,Guy Kay: A Brightness Long Ago,2210,https://www.labirint.ru/books/904899/
+670d3d0fd57fd6339b6e76ab,Silvia Moreno-Garcia: Gods of Jade and Shadow,2210,https://www.labirint.ru/books/904775/
+670d3d0fd57fd6339b6e76ac,Michael Moorcock: Breakfast in the Ruins and Other Stories,2210,https://www.labirint.ru/books/904336/
+670d3d10d57fd6339b6e76ad,Lindqvist Ajvide: Handling the Undead,2210,https://www.labirint.ru/books/910497/
+670d3d11d57fd6339b6e76ae,Brian Catling: Earwig,2210,https://www.labirint.ru/books/910098/
+670d3d12d57fd6339b6e76af,Iain Banks: A Song Of Stone,2210,https://www.labirint.ru/books/908813/
+670d3d12d57fd6339b6e76b0,Frank Herbert: Hellstrom's Hive,2210,https://www.labirint.ru/books/976600/
+670d3d12d57fd6339b6e76b1,Richard Matheson: Hell House,2210,https://www.labirint.ru/books/976599/
+670d3d13d57fd6339b6e76b2,Richard Laymon: Funland,2210,https://www.labirint.ru/books/976540/
+670d3d14d57fd6339b6e76b3,Nana Adjei-Brenyah: Friday Black,2210,https://www.labirint.ru/books/976533/
+670d3d15d57fd6339b6e76b4,M. Harrison: Empty Space. A Haunting,2210,https://www.labirint.ru/books/976433/
+670d3d15d57fd6339b6e76b5,Richard Chizmar: Chasing the Boogeyman,2210,https://www.labirint.ru/books/976266/
+670d3d16d57fd6339b6e76b6,M.D. Lachlan: Celestial,2210,https://www.labirint.ru/books/976255/
+670d3d17d57fd6339b6e76b7,Ken MacLeod: Beyond the Hallowed Sky,2210,https://www.labirint.ru/books/976204/
+670d3d18d57fd6339b6e76b8,Trevor Baxendale: Doctor Who. Fear of the Dark,2212,https://www.labirint.ru/books/973231/
+670d3d18d57fd6339b6e76b9,George Mann: Doctor Who. Engines of War,2212,https://www.labirint.ru/books/973230/
+670d3d18d57fd6339b6e76ba,Stephen Baxter: Origin,2218,https://www.labirint.ru/books/897417/
+670d3d1ad57fd6339b6e76bb,Barbara Erskine: Hiding from the Light,2218,https://www.labirint.ru/books/896991/
+670d3d1ad57fd6339b6e76bc,Stanislaw Lem: The Cyberiad,2227,https://www.labirint.ru/books/888595/
+670d3d1bd57fd6339b6e76bd,Dubravka Ugresic: Baba Yaga Laid an Egg,2227,https://www.labirint.ru/books/953719/
+670d3d1bd57fd6339b6e76be,Andrew Davidson: The Gargoyle,2227,https://www.labirint.ru/books/953677/
+670d3d1cd57fd6339b6e76bf,Jodi Taylor: Hard Time,2402,https://www.labirint.ru/books/905906/
+670d3d1dd57fd6339b6e76c0,C. Carey: Widowland,2402,https://www.labirint.ru/books/905880/
+670d3d1ed57fd6339b6e76c1,Nalini Singh: Last Guard,2402,https://www.labirint.ru/books/905850/
+670d3d1ed57fd6339b6e76c2,Jaime Moyer: Brightfall,2402,https://www.labirint.ru/books/905845/
+670d3d1fd57fd6339b6e76c3,Andrew Hurley: Devil's Day,2402,https://www.labirint.ru/books/905768/
+670d3d1fd57fd6339b6e76c4,S Morden: Gallowglass,2402,https://www.labirint.ru/books/905748/
+670d3d20d57fd6339b6e76c5,Elspeth Barker: O Caledonia,2402,https://www.labirint.ru/books/905738/
+670d3d21d57fd6339b6e76c6,Andrew Caldecott: Rotherweird,2402,https://www.labirint.ru/books/905734/
+670d3d21d57fd6339b6e76c7,Benjamin Percy: The Dark Net,2402,https://www.labirint.ru/books/905710/
+670d3d22d57fd6339b6e76c8,Nora Roberts: Bay of Sighs,2402,https://www.labirint.ru/books/905694/
+670d3d22d57fd6339b6e76c9,Nina Allan: The Dollmaker,2402,https://www.labirint.ru/books/905637/
+670d3d23d57fd6339b6e76ca,Ira Levin: This Perfect Day,2402,https://www.labirint.ru/books/905345/
+670d3d24d57fd6339b6e76cb,Nicky Singer: The Survival Game,2133,https://www.labirint.ru/books/905263/
+670d3d25d57fd6339b6e76cc,Teri Terry: Shattered,2133,https://www.labirint.ru/books/904694/
+670d3d25d57fd6339b6e76cd,Teri Terry: Fractured,2133,https://www.labirint.ru/books/904693/
+670d3d26d57fd6339b6e76ce,de la Pena Matt: Superman. Dawnbreaker,2084,https://www.labirint.ru/books/887875/
+670d3d27d57fd6339b6e76cf,Marie Lu: Batman. Nightwalker,2084,https://www.labirint.ru/books/887874/
+670d3d27d57fd6339b6e76d0,Emily Suvada: This Cruel Design,2084,https://www.labirint.ru/books/887856/
+670d3d27d57fd6339b6e76d1,Emily Suvada: This Mortal Coil,2084,https://www.labirint.ru/books/887855/
+670d3d28d57fd6339b6e76d2,Malorie Blackman: Double Cross,2084,https://www.labirint.ru/books/887848/
+670d3d29d57fd6339b6e76d3,Malorie Blackman: Knife Edge,2084,https://www.labirint.ru/books/887846/
+670d3d29d57fd6339b6e76d4,Malorie Blackman: Checkmate,2084,https://www.labirint.ru/books/887847/
+670d3d2ad57fd6339b6e76d5,Malorie Blackman: Chasing the Stars,2084,https://www.labirint.ru/books/887834/
+670d3d2bd57fd6339b6e76d6,Ally Condie: Crossed,2084,https://www.labirint.ru/books/887673/
+670d3d2cd57fd6339b6e76d7,Marie Lu: Prodigy,2084,https://www.labirint.ru/books/887669/
+670d3d2cd57fd6339b6e76d8,Arthur Doyle: The Lost World,2084,https://www.labirint.ru/books/885418/
+670d3d2dd57fd6339b6e76d9,"Sugg, Маккаллоу: The Magpie Society. Two for Joy",2085,https://www.labirint.ru/books/888376/
+670d3d2dd57fd6339b6e76da,Джоан Роулинг: Гарри Поттер и Тайная комната,2311,https://www.labirint.ru/books/911378/
+670d3d2ed57fd6339b6e76db,Amy Sackville: Orkney,2024,https://www.labirint.ru/books/954225/
+670d3d2fd57fd6339b6e76dc,Sarah Moss: Ghost Wall,2024,https://www.labirint.ru/books/954204/
+670d3d2fd57fd6339b6e76dd,Catherine Lacey: Pew,2024,https://www.labirint.ru/books/954224/
+670d3d30d57fd6339b6e76de,Yoko Tawada: The Last Children of Tokyo,2024,https://www.labirint.ru/books/954194/
+670d3d31d57fd6339b6e76df,Mariana Enriquez: The Dangers of Smoking in Bed,2024,https://www.labirint.ru/books/954175/
+670d3d31d57fd6339b6e76e0,Carol Duffy: Faery Tales,2024,https://www.labirint.ru/books/954115/
+670d3d32d57fd6339b6e76e1,Michael Frayn: A Very Private Life,2024,https://www.labirint.ru/books/954003/
+670d3d32d57fd6339b6e76e2,Sam Byers: Perfidious Albion,2024,https://www.labirint.ru/books/953964/
+670d3d33d57fd6339b6e76e3,Smith McCall: Dream Angus,2024,https://www.labirint.ru/books/953776/
+670d3d34d57fd6339b6e76e4,Mike McCormack: Notes from a Coma,2024,https://www.labirint.ru/books/953752/
+670d3d34d57fd6339b6e76e5,Ahmed Saadawi: Frankenstein in Baghdad,2024,https://www.labirint.ru/books/954464/
+670d3d35d57fd6339b6e76e6,John Darnielle: Devil House,2024,https://www.labirint.ru/books/954446/
+670d3d36d57fd6339b6e76e7,Sally Oliver: The Weight of Loss,2026,https://www.labirint.ru/books/954347/
+670d3d36d57fd6339b6e76e8,Ninni Holmqvist: The Unit,2026,https://www.labirint.ru/books/954376/
+670d3d37d57fd6339b6e76e9,Sarah Moss: Cold Earth,2026,https://www.labirint.ru/books/954253/
+670d3d38d57fd6339b6e76ea,Victor LaValle: The Changeling,2026,https://www.labirint.ru/books/953734/
+670d3d38d57fd6339b6e76eb,Max Porter: Lanny,1881,https://www.labirint.ru/books/954072/
+670d3d39d57fd6339b6e76ec,Terry Pratchett: Wings,2027,https://www.labirint.ru/books/889846/
+670d3d39d57fd6339b6e76ed,Jess Kidd: The Night Ship,2026,https://www.labirint.ru/books/953626/
+670d3d3bd57fd6339b6e76ee,"Patterson, McGinnis: City of the Dead",2027,https://www.labirint.ru/books/931705/
+670d3d3bd57fd6339b6e76ef,"Пехов, Бычкова, Турчанинова: Эринеры Гипноса",510,https://www.labirint.ru/books/603042/
+670d3d3dd57fd6339b6e76f0,David Fisher: Doctor Who. The Stones of Blood,2054,https://www.labirint.ru/books/892154/
+670d3d3dd57fd6339b6e76f1,Malorie Blackman: Endgame,2054,https://www.labirint.ru/books/973333/
+670d3d3ed57fd6339b6e76f2,Joy Wilkinson: Doctor Who. The Witchfinders,2054,https://www.labirint.ru/books/973278/
+670d3d3ed57fd6339b6e76f3,Mark Gatiss: Doctor Who. The Crimson Horror,2054,https://www.labirint.ru/books/973260/
+670d3d3fd57fd6339b6e76f4,Eric Saward: Doctor Who. Revelation of the Daleks,2054,https://www.labirint.ru/books/973249/
+670d3d3fd57fd6339b6e76f5,Ben Winters: Golden State,2057,https://www.labirint.ru/books/973387/
+670d3d40d57fd6339b6e76f6,Stephen King: Night Shift,2058,https://www.labirint.ru/books/732152/
+670d3d41d57fd6339b6e76f7,Кир Булычев: День рождения Алисы,1019,https://www.labirint.ru/books/734041/
+670d3d41d57fd6339b6e76f8,M. Harrison: Light,2058,https://www.labirint.ru/books/906028/
+670d3d42d57fd6339b6e76f9,Brandon Sanderson: Starsight,2058,https://www.labirint.ru/books/905869/
+670d3d43d57fd6339b6e76fa,David Mitchell: Slade House,2058,https://www.labirint.ru/books/905757/
+670d3d43d57fd6339b6e76fb,Katherine Clements: The Coffin Path,2058,https://www.labirint.ru/books/905428/
+670d3d44d57fd6339b6e76fc,Lindqvist Ajvide: I Always Find You,2058,https://www.labirint.ru/books/905217/
+670d3d45d57fd6339b6e76fd,Ira Levin: The Boys from Brazil,2058,https://www.labirint.ru/books/910521/
+670d3d45d57fd6339b6e76fe,Octavia Butler: Patternmaster,2058,https://www.labirint.ru/books/909941/
+670d3d46d57fd6339b6e76ff,Octavia Butler: Mind of My Mind,2058,https://www.labirint.ru/books/909939/
+670d3d46d57fd6339b6e7700,Dean Koontz: Intensity,2058,https://www.labirint.ru/books/909845/
+670d3d47d57fd6339b6e7701,Louisa Morgan: The Age of Witches,2058,https://www.labirint.ru/books/977256/
+670d3d47d57fd6339b6e7702,Christopher Priest: The Affirmation,2058,https://www.labirint.ru/books/977254/
+670d3d48d57fd6339b6e7703,Catherynne Valente: Space Opera,2058,https://www.labirint.ru/books/977195/
+670d3d48d57fd6339b6e7704,Arthur Clarke: Rendezvous With Rama,2058,https://www.labirint.ru/books/977062/
+670d3d4ad57fd6339b6e7705,Walter Tevis: Mockingbird,2058,https://www.labirint.ru/books/976853/
+670d3d4ad57fd6339b6e7706,"Herbert, Андерсон: Hunters of Dune",2058,https://www.labirint.ru/books/976652/
+670d3d4bd57fd6339b6e7707,Jodi Taylor: Just One Damned Thing After Another,2058,https://www.labirint.ru/books/904438/
+670d3d4cd57fd6339b6e7708,Richard Chizmar: Gwendy's Magic Feather,2060,https://www.labirint.ru/books/904841/
+670d3d4cd57fd6339b6e7709,Morowa Yejide: Creatures of Passage,2060,https://www.labirint.ru/books/956081/
+670d3d4dd57fd6339b6e770a,Nevil Shute: On the beach +CD,2062,https://www.labirint.ru/books/894618/
+670d3d4ed57fd6339b6e770b,Кир Булычев: Вампир Полумракс. Звездный пес,656,https://www.labirint.ru/books/645436/
+670d3d4ed57fd6339b6e770c,Сергей Тармашев: Тьма. Рассвет Тьмы. Сияние Тьмы (уникальное лимитированное издание),2028,https://www.labirint.ru/books/853713/
+670d3d4fd57fd6339b6e770d,"Кир Булычев: Девочка, с которой ничего не случится",395,https://www.labirint.ru/books/848232/
+670d3d4fd57fd6339b6e770e,Lauren Kate: Unforgiven,2084,https://www.labirint.ru/books/889822/
+670d3d50d57fd6339b6e770f,Malorie Blackman: The Stuff Of Nightmares,2084,https://www.labirint.ru/books/889803/
+670d3d51d57fd6339b6e7710,A. Rosen: Entwined,2084,https://www.labirint.ru/books/888551/
+670d3d52d57fd6339b6e7711,Marie Lu: Rebel,2084,https://www.labirint.ru/books/888468/
+670d3d52d57fd6339b6e7712,Kat Ellis: Harrow Lake,2084,https://www.labirint.ru/books/888356/
+670d3d53d57fd6339b6e7713,Malorie Blackman: Crossfire,2084,https://www.labirint.ru/books/888320/
+670d3d53d57fd6339b6e7714,Marie Lu: Wildcard,2084,https://www.labirint.ru/books/888144/
+670d3d55d57fd6339b6e7715,David Hofmeyr: The Between,2085,https://www.labirint.ru/books/887717/
+670d3d55d57fd6339b6e7716,Giles Kristian: Lancelot,2086,https://www.labirint.ru/books/889705/
+670d3d55d57fd6339b6e7717,Кристель Дабо: Сквозь зеркала. Книга 2. Тайны Полюса,1256,https://www.labirint.ru/books/641213/
+670d3d56d57fd6339b6e7718,Петр Катериничев: Редкая птица. Огонь на поражение,1636,https://www.labirint.ru/books/840236/
+670d3d57d57fd6339b6e7719,Говард Лавкрафт: Мифы Ктулху. Самое полное собрание ужасов,2236,https://www.labirint.ru/books/988377/
+670d3d57d57fd6339b6e771a,"Stoker, Холт: Dracula. The Un-Dead",2104,https://www.labirint.ru/books/897010/
+670d3d58d57fd6339b6e771b,Jay Kristoff: DEV1AT3. Deviate,2119,https://www.labirint.ru/books/986202/
+670d3d59d57fd6339b6e771c,de la Cruz Melissa: Masquerade. A Blue Bloods Novel,2120,https://www.labirint.ru/books/406300/
+670d3d59d57fd6339b6e771d,Ben Aaronovitch: The Furthest Station,2120,https://www.labirint.ru/books/689751/
+670d3d59d57fd6339b6e771e,Max Barry: Providence,2120,https://www.labirint.ru/books/910229/
+670d3d5ad57fd6339b6e771f,Benjamin Percy: The Ninth Metal,2120,https://www.labirint.ru/books/910099/
+670d3d5bd57fd6339b6e7720,Christopher Priest: Episodes,2120,https://www.labirint.ru/books/909980/
+670d3d5cd57fd6339b6e7721,Nora Roberts: Blood Brothers,2120,https://www.labirint.ru/books/908884/
+670d3d5cd57fd6339b6e7722,Linnea Hartsuyker: The Half-Drowned King,2120,https://www.labirint.ru/books/908843/
+670d3d5dd57fd6339b6e7723,Margaret Atwood: The Heart Goes Last,1735,https://www.labirint.ru/books/791697/
+670d3d5dd57fd6339b6e7724,Jess Rothenberg: The Kingdom,2125,https://www.labirint.ru/books/902751/
+670d3d5ed57fd6339b6e7725,Ira Levin: Rosemary's Baby,1974,https://www.labirint.ru/books/905397/
+670d3d5fd57fd6339b6e7726,Octavia Butler: Parable of the Sower,1974,https://www.labirint.ru/books/904952/
+670d3d5fd57fd6339b6e7727,John Connolly: The Book of Lost Things,1974,https://www.labirint.ru/books/904294/
+670d3d60d57fd6339b6e7728,Jodi Taylor: Saving Time,1974,https://www.labirint.ru/books/952435/
+670d3d60d57fd6339b6e7729,Octavia Butler: Parable of the Talents,1974,https://www.labirint.ru/books/909884/
+670d3d61d57fd6339b6e772a,Dean Koontz: Phantoms,1974,https://www.labirint.ru/books/909846/
+670d3d61d57fd6339b6e772b,Dean Koontz: Strangers,1974,https://www.labirint.ru/books/909829/
+670d3d62d57fd6339b6e772c,Dean Koontz: Hideaway,1974,https://www.labirint.ru/books/909820/
+670d3d62d57fd6339b6e772d,David Mitchell: Ghostwritten,1974,https://www.labirint.ru/books/908599/
+670d3d63d57fd6339b6e772e,Justin Robertson: The Tangle,1974,https://www.labirint.ru/books/956265/
+670d3d64d57fd6339b6e772f,Chelsea Abdullah: The Stardust Thief,1974,https://www.labirint.ru/books/956262/
+670d3d64d57fd6339b6e7730,Joe Haldeman: The Forever War,1974,https://www.labirint.ru/books/956230/
+670d3d65d57fd6339b6e7731,S Morden: The Flight of the Aphrodite,1974,https://www.labirint.ru/books/956228/
+670d3d66d57fd6339b6e7732,Claire North: Notes from the Burning Age,1974,https://www.labirint.ru/books/956172/
+670d3d67d57fd6339b6e7733,Frederik Pohl: Gateway,1974,https://www.labirint.ru/books/956114/
+670d3d67d57fd6339b6e7734,Brandon Sanderson: Cytonic,1974,https://www.labirint.ru/books/956084/
+670d3d68d57fd6339b6e7735,Trevor Hoyle: Blake's 7,1974,https://www.labirint.ru/books/956066/
+670d3d69d57fd6339b6e7736,Stephen King: Firestarter,1974,https://www.labirint.ru/books/952090/
+670d3d6ad57fd6339b6e7737,Garth Marenghi: Garth Marenghi's TerrorTome,1974,https://www.labirint.ru/books/976547/
+670d3d6ad57fd6339b6e7738,"King, Хилл, Vincent: Flight or Fright. 17 Turbulent Tales",1974,https://www.labirint.ru/books/976516/
+670d3d6bd57fd6339b6e7739,Brandon Sanderson: Firefight,1833,https://www.labirint.ru/books/976508/
+670d3d6bd57fd6339b6e773a,Alastair Reynolds: Eversion,1974,https://www.labirint.ru/books/976446/
+670d3d6bd57fd6339b6e773b,Stephen King: Doctor Sleep,1974,https://www.labirint.ru/books/976403/
+670d3d6dd57fd6339b6e773c,Frank Herbert: Children of Dune,1974,https://www.labirint.ru/books/976281/
+670d3d6dd57fd6339b6e773d,Frank Herbert: Chapterhouse Dune,1974,https://www.labirint.ru/books/976260/
+670d3d6ed57fd6339b6e773e,Brandon Sanderson: Calamity,1974,https://www.labirint.ru/books/976243/
+670d3d6ed57fd6339b6e773f,Stephen King: Blaze,1974,https://www.labirint.ru/books/976214/
+670d3d6fd57fd6339b6e7740,Dan Simmons: Song of Kali,1974,https://www.labirint.ru/books/977188/
+670d3d70d57fd6339b6e7741,Catherynne Valente: Radiance,1974,https://www.labirint.ru/books/977007/
+670d3d70d57fd6339b6e7742,Richard Laymon: One Rainy Night,1974,https://www.labirint.ru/books/976931/
+670d3d71d57fd6339b6e7743,Corey James S. A.: Leviathan Wakes,1974,https://www.labirint.ru/books/976764/
+670d3d71d57fd6339b6e7744,Harlan Coben: Win,1979,https://www.labirint.ru/books/829578/
+670d3d72d57fd6339b6e7745,Kass Morgan: Homecoming,1990,https://www.labirint.ru/books/976617/
+670d3d73d57fd6339b6e7746,Claire North: 84K,1990,https://www.labirint.ru/books/975974/
+670d3d73d57fd6339b6e7747,Владимир Обручев: Плутония,2282,https://www.labirint.ru/books/567237/
+670d3d74d57fd6339b6e7748,Peter Hamilton: Salvation Lost,1856,https://www.labirint.ru/books/781168/
+670d3d75d57fd6339b6e7749,Валентина Май: Новый горизонт,1143,https://www.labirint.ru/books/828525/
+670d3d76d57fd6339b6e774a,C. McDonnell: This Charming Man,2004,https://www.labirint.ru/books/931555/
+670d3d76d57fd6339b6e774b,"Chen, Tsamaase, Fernandes: The Best of World SF. Volume 1",2004,https://www.labirint.ru/books/963766/
+670d3d77d57fd6339b6e774c,Anne Rice: Prince Lestat,2004,https://www.labirint.ru/books/973613/
+670d3d77d57fd6339b6e774d,Anne Rice: Blood Canticle,2004,https://www.labirint.ru/books/972986/
+670d3d78d57fd6339b6e774e,Steve Feasey: Dark Art,2010,https://www.labirint.ru/books/922734/
+670d3d78d57fd6339b6e774f,Jeff Giles: The Brink of Darkness,2010,https://www.labirint.ru/books/922711/
+670d3d79d57fd6339b6e7750,Jeff Giles: The Edge of Everything,2010,https://www.labirint.ru/books/922708/
+670d3d79d57fd6339b6e7751,Sarah Tolcser: Song of the Current,2010,https://www.labirint.ru/books/922494/
+670d3d7ad57fd6339b6e7752,Jeff Giles: The Edge of Everything,2010,https://www.labirint.ru/books/922477/
+670d3d7ad57fd6339b6e7753,Brigid Kemmerer: Defy the Night,2010,https://www.labirint.ru/books/922741/
+670d3d7cd57fd6339b6e7754,"Корберан: Регулятор Том 1. ""Амброзия"". ""Гестия"". ""Офидия""",1500,https://www.labirint.ru/books/859607/
+670d3d7cd57fd6339b6e7755,Оскар Мартин: Соло. Пережившие Хаос,1500,https://www.labirint.ru/books/955121/
+670d3d7cd57fd6339b6e7756,Корберан: Регулятор Том 2: 666-я. Корделия. Никта,1500,https://www.labirint.ru/books/955122/
+670d3d7dd57fd6339b6e7757,Nicole Galland: Master of the Revels,2017,https://www.labirint.ru/books/898816/
+670d3d7dd57fd6339b6e7758,Кристоф Арлестон: Эххо. Зеркальный Мир. Том 4. Свингующий Лондон. Русалка Манхэттена,1500,https://www.labirint.ru/books/979852/
+670d3d7fd57fd6339b6e7759,Wray Delaney: The Beauty of the Wolf,2017,https://www.labirint.ru/books/897639/
+670d3d7fd57fd6339b6e775a,Michael Smith: Only Forward,2017,https://www.labirint.ru/books/897369/
+670d3d80d57fd6339b6e775b,J. Ballard: Empire of the Sun,2017,https://www.labirint.ru/books/896906/
+670d3d80d57fd6339b6e775c,Michael Smith: Hannah Green and Her Unfeasibly Mundane Existence,2017,https://www.labirint.ru/books/897709/
+670d3d80d57fd6339b6e775d,Robert Dinsdale: Gingerbread,2017,https://www.labirint.ru/books/897201/
+670d3d81d57fd6339b6e775e,J. Ballard: Hello America,2017,https://www.labirint.ru/books/896986/
+670d3d81d57fd6339b6e775f,Kesia Lupo: Let's Play Murder,2017,https://www.labirint.ru/books/963524/
+670d3d83d57fd6339b6e7760,"Беанна, Вальс, Беляев: Страшные сказки",499,https://www.labirint.ru/books/938047/
+670d3d84d57fd6339b6e7761,Ryan Graudin: Blood for Blood,2125,https://www.labirint.ru/books/910345/
+670d3d84d57fd6339b6e7762,A. Martinez: The Last Adventure of Constance Verity,2125,https://www.labirint.ru/books/910300/
+670d3d85d57fd6339b6e7763,Sjon: The Whispering Muse,2125,https://www.labirint.ru/books/910214/
+670d3d86d57fd6339b6e7764,Kate Sawyer: The Stranding,2125,https://www.labirint.ru/books/910210/
+670d3d86d57fd6339b6e7765,Lynsay Sands: Mile High With a Vampire,2125,https://www.labirint.ru/books/909996/
+670d3d87d57fd6339b6e7766,Rachelle Atalla: The Pharmacist,2125,https://www.labirint.ru/books/910212/
+670d3d87d57fd6339b6e7767,Ira Levin: Son of Rosemary,2125,https://www.labirint.ru/books/909735/
+670d3d88d57fd6339b6e7768,Catherynne Valente: Deathless,2125,https://www.labirint.ru/books/909734/
+670d3d89d57fd6339b6e7769,Nora Roberts: A World Apart. The Witching Hour,2125,https://www.labirint.ru/books/909016/
+670d3d89d57fd6339b6e776a,Nora Roberts: The Pagan Stone,2125,https://www.labirint.ru/books/908885/
+670d3d8ad57fd6339b6e776b,Nora Roberts: Key Of Valour,2125,https://www.labirint.ru/books/908879/
+670d3d8ad57fd6339b6e776c,Nora Roberts: Key Of Knowledge,2125,https://www.labirint.ru/books/908878/
+670d3d8bd57fd6339b6e776d,Nora Roberts: Key Of Light,2125,https://www.labirint.ru/books/908877/
+670d3d8bd57fd6339b6e776e,Nora Roberts: Stars of Fortune,2125,https://www.labirint.ru/books/908869/
+670d3d8cd57fd6339b6e776f,Dorothea Tanning: Chasm. A Weekend,2125,https://www.labirint.ru/books/908726/
+670d3d8dd57fd6339b6e7770,Hannu Rajaniemi: Invisible Planets,1717,https://www.labirint.ru/books/976694/
+670d3d8dd57fd6339b6e7771,Далия Трускиновская: Архаровцы. Блудное художество,732,https://www.labirint.ru/books/1014195/
+670d3d8ed57fd6339b6e7772,Арманд Балтазар: За пределом времен. Диего и рейнджеры Мегатлантики,2480,https://www.labirint.ru/books/652273/
+670d3d8ed57fd6339b6e7773,"Жвалевский, Мытько: Порри Гаттер. Все!",1882,https://www.labirint.ru/books/139102/
+670d3d8fd57fd6339b6e7774,Иван Леденцов: Наши души,1076,https://www.labirint.ru/books/877249/
+670d3d90d57fd6339b6e7775,Emily Pan: An Arrow to the Moon,1887,https://www.labirint.ru/books/910177/
+670d3d91d57fd6339b6e7776,Ольга Громыко: Космоолухи. Киберканикулы,588,https://www.labirint.ru/books/970725/
+670d3d91d57fd6339b6e7777,John Marsden: Tomorrow When the War Began,1887,https://www.labirint.ru/books/909382/
+670d3d91d57fd6339b6e7778,Kurt Vonnegut: Galapagos,1891,https://www.labirint.ru/books/438573/
+670d3d92d57fd6339b6e7779,Антон Гусев: Рыбки всегда плавают вправо,1296,https://www.labirint.ru/books/982413/
+670d3d92d57fd6339b6e777a,Tahereh Mafi: Find Me,1891,https://www.labirint.ru/books/899704/
+670d3d93d57fd6339b6e777b,Margaret Mahy: The Haunting,1891,https://www.labirint.ru/books/910178/
+670d3d94d57fd6339b6e777c,Neil Gaiman: Neverwhere. The Illustrated Edition,2172,https://www.labirint.ru/books/691727/
+670d3d94d57fd6339b6e777d,"Джо Уилсон: Остров, которого нет",1009,https://www.labirint.ru/books/831680/
+670d3d95d57fd6339b6e777e,Ольга Курьянинова: Путешествие в Дальний лес,1309,https://www.labirint.ru/books/940497/
+670d3d98d57fd6339b6e777f,Justin Richards: Doctor Who. Tales of Trenzalore,1917,https://www.labirint.ru/books/973255/
+670d3d98d57fd6339b6e7780,Gary Russell: Doctor Who. Scales of Injustice,1917,https://www.labirint.ru/books/973251/
+670d3d98d57fd6339b6e7781,Trevor Baxendale: Doctor Who. Prisoner of the Daleks,1917,https://www.labirint.ru/books/973247/
+670d3d99d57fd6339b6e7782,Justin Richards: Doctor Who. Dreams of Empire,1917,https://www.labirint.ru/books/973229/
+670d3d9ad57fd6339b6e7783,Jenny Colgan: Doctor Who. Dark Horizons,1917,https://www.labirint.ru/books/973222/
+670d3d9ad57fd6339b6e7784,James Smythe: The Ends,1920,https://www.labirint.ru/books/897262/
+670d3d9bd57fd6339b6e7785,Josh Malerman: Bird Box,1920,https://www.labirint.ru/books/898113/
+670d3d9cd57fd6339b6e7786,J. Ballard: High-Rise,1926,https://www.labirint.ru/books/702676/
+670d3d9dd57fd6339b6e7787,Amitav Ghosh: The Hungry Tide,1926,https://www.labirint.ru/books/896801/
+670d3d9dd57fd6339b6e7788,Isaac Asimov: The Complete Stories. Volume I,1926,https://www.labirint.ru/books/896688/
+670d3d9dd57fd6339b6e7789,Isaac Asimov: The Currents of Space,1926,https://www.labirint.ru/books/986438/
+670d3d9ed57fd6339b6e778a,"Isaac Asimov: I, Robot",1926,https://www.labirint.ru/books/986034/
+670d3d9fd57fd6339b6e778b,J. Ballard: The Drowned World,1926,https://www.labirint.ru/books/985909/
+670d3d9fd57fd6339b6e778c,Андрей Ливадный: Репликант,551,https://www.labirint.ru/books/1015280/
+670d3da0d57fd6339b6e778d,Jennifer Egan: The Candy House,1936,https://www.labirint.ru/books/956214/
+670d3da0d57fd6339b6e778e,Герберт Уэллс: Неопытное привидение,1499,https://www.labirint.ru/books/935435/
+670d3da1d57fd6339b6e778f,John Scalzi: The Last Colony,1947,https://www.labirint.ru/books/903136/
+670d3da2d57fd6339b6e7790,Andrus Kivirahk: The Man Who Spoke Snakish,1950,https://www.labirint.ru/books/929475/
+670d3da2d57fd6339b6e7791,Lian Hearn: Lord of the Darkwood,1955,https://www.labirint.ru/books/955385/
+670d3da3d57fd6339b6e7792,Кир Булычев: Война с лилипутами,1820,https://www.labirint.ru/books/458735/
+670d3da3d57fd6339b6e7793,Stephen King: The Bazaar of Bad Dreams,1965,https://www.labirint.ru/books/784991/
+670d3da4d57fd6339b6e7794,Dana Schwartz: Anatomy. A Love Story,1965,https://www.labirint.ru/books/976121/
+670d3da4d57fd6339b6e7795,Владислав Крапивин: Топот шахматных лошадок,1248,https://www.labirint.ru/books/640939/
+670d3da5d57fd6339b6e7796,Kiese Laymon: Long Division,1970,https://www.labirint.ru/books/967301/
+670d3da6d57fd6339b6e7797,Ronnie Turner: So Pretty,1970,https://www.labirint.ru/books/966759/
+670d3da7d57fd6339b6e7798,Paul Hardisty: The Forcing,1970,https://www.labirint.ru/books/966758/
+670d3da7d57fd6339b6e7799,"Annand, Mana, Fischer: Secrets in Scarlet. An Arkham Horror Anthology",1970,https://www.labirint.ru/books/966704/
+670d3da8d57fd6339b6e779a,Dave Hutchinson: Cold Water,1970,https://www.labirint.ru/books/966676/
+670d3da9d57fd6339b6e779b,Майлз Кэмерон: Падение драконов,1126,https://www.labirint.ru/books/935124/
+670d3da9d57fd6339b6e779c,Кир Булычев: Алиса и крестоносцы,1408,https://www.labirint.ru/books/462829/
+670d3daad57fd6339b6e779d,Мартин Джордж Р. Р.: Буря мечей. Пир стервятников,1933,https://www.labirint.ru/books/325656/
+670d3dabd57fd6339b6e779e,Мартин Джордж Р. Р.: Игра престолов. Битва королей,1933,https://www.labirint.ru/books/315645/
+670d3dabd57fd6339b6e779f,Stephen King: Dolores Claiborne,1974,https://www.labirint.ru/books/692559/
+670d3dacd57fd6339b6e77a0,Stephen King: Doctor Sleep,1974,https://www.labirint.ru/books/732143/
+670d3dadd57fd6339b6e77a1,Frank Herbert: Heretics Of Dune,1974,https://www.labirint.ru/books/871522/
+670d3dadd57fd6339b6e77a2,Джоан Роулинг: Гарри Поттер. Год с волшебством,1933,https://www.labirint.ru/books/911381/
+670d3daed57fd6339b6e77a3,Frank Herbert: God Emperor of Dune,1974,https://www.labirint.ru/books/871521/
+670d3dafd57fd6339b6e77a4,Octavia Butler: Dawn,1974,https://www.labirint.ru/books/906051/
+670d3dafd57fd6339b6e77a5,Kanae Minato: Confessions,1974,https://www.labirint.ru/books/905794/
+670d3db0d57fd6339b6e77a6,Stephenie Meyer: Breaking Dawn,1974,https://www.labirint.ru/books/905573/
+670d3db0d57fd6339b6e77a7,Silvia Moreno-Garcia: Mexican Gothic,1974,https://www.labirint.ru/books/905492/
+670d3db1d57fd6339b6e77a8,Nora Roberts: Island of Glass,1974,https://www.labirint.ru/books/905446/
+670d3db3d57fd6339b6e77a9,Sharon Cameron: A Spark Unseen,2127,https://www.labirint.ru/books/920100/
+670d3db3d57fd6339b6e77aa,Caleb Roehrig: A Werewolf in Riverdale,2127,https://www.labirint.ru/books/919279/
+670d3db4d57fd6339b6e77ab,Rebecca Barrow: Interview with a Vixen,2127,https://www.labirint.ru/books/919278/
+670d3db5d57fd6339b6e77ac,Micol Ostow: Death of a Cheerleader,2127,https://www.labirint.ru/books/919184/
+670d3db5d57fd6339b6e77ad,Александр Житинский: Братцы по разуму,1217,https://www.labirint.ru/books/617875/
+670d3db6d57fd6339b6e77ae,Ина Брандт: Хранители замка Федерштайн,608,https://www.labirint.ru/books/792193/
+670d3db7d57fd6339b6e77af,Алексей Толстой: Гиперболоид инженера Гарина,1647,https://www.labirint.ru/books/545447/
+670d3db7d57fd6339b6e77b0,Василий Веденеев: Дикое поле,1662,https://www.labirint.ru/books/857946/
+670d3db8d57fd6339b6e77b1,Brittney Morris: Slay,2133,https://www.labirint.ru/books/906043/
+670d3db8d57fd6339b6e77b2,S Morden: One Way,2133,https://www.labirint.ru/books/905985/
+670d3db8d57fd6339b6e77b3,James Smythe: Dark Made Dawn,2133,https://www.labirint.ru/books/905557/
+670d3dbad57fd6339b6e77b4,Christopher Pike: The Midnight Club,2133,https://www.labirint.ru/books/904359/
+670d3dbad57fd6339b6e77b5,M. Harrison: Nova Swing,1849,https://www.labirint.ru/books/976910/
+670d3dbad57fd6339b6e77b6,Филипп Керр: Джинн в Вавилонском подземелье,872,https://www.labirint.ru/books/778931/
+670d3dbbd57fd6339b6e77b7,Laini Taylor: Lips Touch,1849,https://www.labirint.ru/books/905835/
+670d3dbcd57fd6339b6e77b8,N. Jemisin: How Long 'til Black Future Month?,1849,https://www.labirint.ru/books/904476/
+670d3dbdd57fd6339b6e77b9,"Kaufman, Кристофф: Aurora Burning",1822,https://www.labirint.ru/books/954462/
+670d3dbed57fd6339b6e77ba,John Darnielle: Universal Harvester,1823,https://www.labirint.ru/books/954447/
+670d3dbed57fd6339b6e77bb,Peter Cameron: What Happens at Night,1822,https://www.labirint.ru/books/954395/
+670d3dbed57fd6339b6e77bc,Diane Cook: Man V. Nature,1822,https://www.labirint.ru/books/954383/
+670d3dbed57fd6339b6e77bd,Shokoofeh Azar: The Enlightenment of the Greengage Tree,1823,https://www.labirint.ru/books/954391/
+670d3dbfd57fd6339b6e77be,Samanta Schweblin: Little Eyes,1822,https://www.labirint.ru/books/954343/
+670d3dc0d57fd6339b6e77bf,Samanta Schweblin: Mouthful of Birds,1822,https://www.labirint.ru/books/954336/
+670d3dc0d57fd6339b6e77c0,Thomas Maloney: The Sacred Combe,1822,https://www.labirint.ru/books/954299/
+670d3dc1d57fd6339b6e77c1,Danny Denton: The Earlie King & the Kid in Yellow,1822,https://www.labirint.ru/books/954260/
+670d3dc1d57fd6339b6e77c2,Andres Barba: A Luminous Republic,1822,https://www.labirint.ru/books/954228/
+670d3dc2d57fd6339b6e77c3,Stefan Spjut: Stallo,1822,https://www.labirint.ru/books/954167/
+670d3dc2d57fd6339b6e77c4,DBC Pierre: Meanwhile in Dopamine City,1822,https://www.labirint.ru/books/953973/
+670d3dc3d57fd6339b6e77c5,Sarah Hall: Burntcoat,1822,https://www.labirint.ru/books/953960/
+670d3dc4d57fd6339b6e77c6,Katie Hale: My Name Is Monster,1822,https://www.labirint.ru/books/953749/
+670d3dc4d57fd6339b6e77c7,"John Lanchester: Reality, and Other Stories",1822,https://www.labirint.ru/books/953875/
+670d3dc5d57fd6339b6e77c8,Jess Kidd: The Hoarder,1823,https://www.labirint.ru/books/953706/
+670d3dc5d57fd6339b6e77c9,Matt Haig: The Possession of Mr Cave,1823,https://www.labirint.ru/books/953723/
+670d3dc6d57fd6339b6e77ca,Jess Kidd: Himself,1823,https://www.labirint.ru/books/953667/
+670d3dc7d57fd6339b6e77cb,Courttia Newland: A River Called Time,1822,https://www.labirint.ru/books/953622/
+670d3dc7d57fd6339b6e77cc,Laura McKay: The Animals in That Country,1822,https://www.labirint.ru/books/954444/
+670d3dc8d57fd6339b6e77cd,Samanta Schweblin: Fever Dream,1823,https://www.labirint.ru/books/954379/
+670d3dc9d57fd6339b6e77ce,Tiffany McDaniel: The Summer That Melted Everything,1822,https://www.labirint.ru/books/954300/
+670d3dc9d57fd6339b6e77cf,"Бёрджис, Решенина: Девочки в фантастических мирах. Комплект из 3-х книг",2083,https://www.labirint.ru/books/1005779/
+670d3dcad57fd6339b6e77d0,Нэнси Фармер: Земля Серебряных Яблок,2088,https://www.labirint.ru/books/802803/
+670d3dcbd57fd6339b6e77d1,Роман Злотников: Собор,1655,https://www.labirint.ru/books/685276/
+670d3dcbd57fd6339b6e77d2,Кир Булычев: Заповедник сказок,1706,https://www.labirint.ru/books/445221/
+670d3dcdd57fd6339b6e77d3,"Кир Булычев: Конец Атлантиды: Узники ""Ямагири-мару""; Конец Атлантиды; Подземная лодка",1320,https://www.labirint.ru/books/448562/
+670d3dcdd57fd6339b6e77d4,Кир Булычев: Пленники астероида,1848,https://www.labirint.ru/books/447102/
+670d3dcfd57fd6339b6e77d5,"Jemisin, Roanhorse, Turnbull: Out There Screaming. An Anthology of New Black Horror",2113,https://www.labirint.ru/books/994808/
+670d3dcfd57fd6339b6e77d6,Mary McMyne: The Book of Gothel,1849,https://www.labirint.ru/books/908948/
+670d3dcfd57fd6339b6e77d7,Shirley Barrett: The Bus on Thursday,1849,https://www.labirint.ru/books/977321/
+670d3dd0d57fd6339b6e77d8,Alastair Reynolds: Shadow Captain,1849,https://www.labirint.ru/books/977132/
+670d3dd0d57fd6339b6e77d9,Tade Thompson: Rosewater,1849,https://www.labirint.ru/books/977083/
+670d3dd1d57fd6339b6e77da,Lauren Oliver: Ringer,1849,https://www.labirint.ru/books/977076/
+670d3dd1d57fd6339b6e77db,Lauren Oliver: Pandemonium,1849,https://www.labirint.ru/books/976952/

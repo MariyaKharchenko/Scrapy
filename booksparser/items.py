@@ -12,3 +12,5 @@ class BooksparserItem(scrapy.Item):
     _id = scrapy.Field()
     price = scrapy.Field()
     url = scrapy.Field()
+
+
